@@ -228,3 +228,4 @@
 [06:05:38] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=1212, y=73, z=-1430} iz{x=1213, y=72, z=-1430}
 [06:11:44] [Server thread/INFO]: FabianTc was slain by Zombie
 [06:36:19] [Server thread/INFO]: FabianTc has made the advancement [What a Deal!]
+[07:00:37] [Server thread/INFO]: Villager cml['Nitwit'/146664, l='ServerLevel[world]', x=1199.91, y=73.00, z=-1456.46] died, message: 'Nitwit was slain by yefry'

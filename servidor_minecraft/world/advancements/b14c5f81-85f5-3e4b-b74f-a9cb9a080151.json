@@ -12,6 +12,7 @@
       "minecraft:dark_forest": "2025-06-21 03:15:32 +0000",
       "minecraft:forest": "2025-06-21 01:31:29 +0000",
       "minecraft:ocean": "2025-06-21 02:25:06 +0000",
+      "minecraft:deep_ocean": "2025-06-21 03:27:41 +0000",
       "minecraft:sunflower_plains": "2025-06-21 03:10:02 +0000",
       "minecraft:river": "2025-06-21 01:41:50 +0000",
       "minecraft:plains": "2025-06-21 01:24:27 +0000"
@@ -1264,6 +1265,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-06-21 03:27:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-06-21 03:13:18 +0000"
@@ -1279,6 +1286,12 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-06-21 03:25:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-06-21 03:27:09 +0000"
     },
     "done": true
   },
@@ -1300,6 +1313,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-06-21 03:31:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-06-21 03:11:42 +0000"
@@ -1309,6 +1328,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-06-21 03:13:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-06-21 03:27:09 +0000"
     },
     "done": true
   },
@@ -1336,6 +1361,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-21 03:31:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-21 03:13:51 +0000"
@@ -1345,6 +1376,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2025-06-21 03:20:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-06-21 03:29:39 +0000"
     },
     "done": true
   },
@@ -1387,6 +1424,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-06-21 03:13:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-06-21 03:31:16 +0000"
     },
     "done": true
   },

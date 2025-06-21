@@ -543,6 +543,7 @@
       "minecraft:zombie": "2025-06-21 01:52:58 +0000",
       "minecraft:creeper": "2025-06-21 02:58:15 +0000",
       "minecraft:zombie_villager": "2025-06-21 04:06:51 +0000",
+      "minecraft:ghast": "2025-06-21 05:29:44 +0000",
       "minecraft:evoker": "2025-06-21 02:59:01 +0000"
     },
     "done": false
@@ -1728,6 +1729,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-06-21 03:54:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-06-21 05:29:44 +0000"
     },
     "done": true
   },

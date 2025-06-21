@@ -10,6 +10,7 @@
       "minecraft:cold_ocean": "2025-06-21 04:12:22 +0000",
       "minecraft:flower_forest": "2025-06-21 04:30:56 +0000",
       "minecraft:savanna_plateau": "2025-06-21 04:26:04 +0000",
+      "minecraft:snowy_slopes": "2025-06-21 05:54:47 +0000",
       "minecraft:beach": "2025-06-21 02:24:55 +0000",
       "minecraft:dark_forest": "2025-06-21 03:15:32 +0000",
       "minecraft:stony_peaks": "2025-06-21 04:39:36 +0000",
@@ -26,6 +27,8 @@
       "minecraft:jungle": "2025-06-21 04:16:22 +0000",
       "minecraft:sunflower_plains": "2025-06-21 03:10:02 +0000",
       "minecraft:cherry_grove": "2025-06-21 04:25:38 +0000",
+      "minecraft:grove": "2025-06-21 05:52:46 +0000",
+      "minecraft:meadow": "2025-06-21 05:53:52 +0000",
       "minecraft:savanna": "2025-06-21 04:18:11 +0000",
       "minecraft:plains": "2025-06-21 01:24:27 +0000"
     },
@@ -259,6 +262,7 @@
       "mutton": "2025-06-21 03:07:45 +0000",
       "apple": "2025-06-21 02:04:26 +0000",
       "chicken": "2025-06-21 03:13:33 +0000",
+      "spider_eye": "2025-06-21 05:49:02 +0000",
       "bread": "2025-06-21 04:35:19 +0000",
       "cooked_mutton": "2025-06-21 03:11:46 +0000",
       "cooked_cod": "2025-06-21 02:31:22 +0000",
@@ -404,6 +408,7 @@
       "minecraft:cave_spider": "2025-06-21 03:38:01 +0000",
       "minecraft:skeleton": "2025-06-21 03:23:55 +0000",
       "minecraft:piglin": "2025-06-21 05:06:14 +0000",
+      "minecraft:enderman": "2025-06-21 05:52:02 +0000",
       "minecraft:spider": "2025-06-21 02:19:54 +0000",
       "minecraft:zombie": "2025-06-21 02:43:12 +0000",
       "minecraft:creeper": "2025-06-21 02:24:43 +0000",
@@ -1588,6 +1593,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-21 05:49:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-06-21 03:50:26 +0000"
@@ -1686,6 +1697,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-06-21 05:49:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-21 05:49:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-06-21 05:03:59 +0000"
@@ -1713,6 +1736,18 @@
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-21 04:11:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-06-21 05:49:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-21 05:49:33 +0000"
     },
     "done": true
   },
@@ -1788,6 +1823,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-21 05:49:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crimson_sign": {
     "criteria": {
       "has_planks": "2025-06-21 05:36:41 +0000"
@@ -1818,6 +1859,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-06-21 05:49:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-06-21 05:49:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2025-06-21 04:38:55 +0000"
@@ -1827,6 +1880,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-06-21 04:33:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-21 05:49:33 +0000"
     },
     "done": true
   },
@@ -1887,6 +1946,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-06-21 05:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-21 05:49:33 +0000"
     },
     "done": true
   },

@@ -239,3 +239,8 @@
 [07:34:25] [Server thread/INFO]: FabianTc has made the advancement [Who is Cutting Onions?]
 [07:35:13] [Server thread/WARN]: yefry moved too quickly! -4.056249701527975,3.0,-8.693740271141792
 [07:35:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5562ms or 111 ticks behind
+[07:43:18] [Server thread/INFO]: FabianTc tried to swim in lava
+[07:47:14] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=172, y=85, z=-185} iz{x=172, y=83, z=-185}
+[07:47:14] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=172, y=85, z=-185} iz{x=172, y=83, z=-185}
+[07:47:14] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=172, y=85, z=-185} iz{x=172, y=83, z=-185}
+[07:47:14] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=172, y=85, z=-185} iz{x=172, y=83, z=-185}

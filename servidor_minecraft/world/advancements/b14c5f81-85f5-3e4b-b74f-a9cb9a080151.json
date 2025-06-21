@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2025-06-21 04:12:22 +0000",
+      "minecraft:flower_forest": "2025-06-21 04:30:56 +0000",
       "minecraft:savanna_plateau": "2025-06-21 04:26:04 +0000",
       "minecraft:beach": "2025-06-21 02:24:55 +0000",
       "minecraft:dark_forest": "2025-06-21 03:15:32 +0000",
@@ -16,6 +17,7 @@
       "minecraft:river": "2025-06-21 01:41:50 +0000",
       "minecraft:lukewarm_ocean": "2025-06-21 04:16:14 +0000",
       "minecraft:stony_shore": "2025-06-21 04:17:50 +0000",
+      "minecraft:dripstone_caves": "2025-06-21 04:35:11 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-21 03:12:15 +0000",
       "minecraft:ocean": "2025-06-21 02:25:06 +0000",
       "minecraft:jungle": "2025-06-21 04:16:22 +0000",
@@ -254,6 +256,7 @@
       "mutton": "2025-06-21 03:07:45 +0000",
       "apple": "2025-06-21 02:04:26 +0000",
       "chicken": "2025-06-21 03:13:33 +0000",
+      "bread": "2025-06-21 04:35:19 +0000",
       "cooked_mutton": "2025-06-21 03:11:46 +0000",
       "cooked_cod": "2025-06-21 02:31:22 +0000",
       "cooked_beef": "2025-06-21 02:25:40 +0000",
@@ -1616,6 +1619,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-06-21 04:34:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-21 04:11:07 +0000"
@@ -1652,6 +1661,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-06-21 04:33:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-06-21 04:07:42 +0000"
@@ -1667,6 +1682,12 @@
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-21 04:11:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-06-21 04:34:12 +0000"
     },
     "done": true
   },

@@ -231,3 +231,4 @@
 [07:00:37] [Server thread/INFO]: Villager cml['Nitwit'/146664, l='ServerLevel[world]', x=1199.91, y=73.00, z=-1456.46] died, message: 'Nitwit was slain by yefry'
 [07:05:01] [Server thread/INFO]: yefry has made the advancement [Enchanter]
 [07:06:31] [Server thread/INFO]: [Not Secure] <yefry> eeeezzzz
+[07:18:22] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=172, y=73, z=-254} iz{x=172, y=71, z=-254}

@@ -409,7 +409,9 @@
       "minecraft:cave_spider": "2025-06-21 03:38:01 +0000",
       "minecraft:skeleton": "2025-06-21 03:23:55 +0000",
       "minecraft:piglin": "2025-06-21 05:06:14 +0000",
+      "minecraft:zombified_piglin": "2025-06-21 07:27:07 +0000",
       "minecraft:enderman": "2025-06-21 05:52:02 +0000",
+      "minecraft:magma_cube": "2025-06-21 07:26:16 +0000",
       "minecraft:spider": "2025-06-21 02:19:54 +0000",
       "minecraft:zombie": "2025-06-21 02:43:12 +0000",
       "minecraft:creeper": "2025-06-21 02:24:43 +0000",
@@ -1594,6 +1596,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-06-21 07:26:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-06-21 06:45:16 +0000"
@@ -1648,6 +1656,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-06-21 07:22:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-21 04:11:07 +0000"
@@ -1669,6 +1683,12 @@
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2025-06-21 04:16:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-06-21 07:22:38 +0000"
     },
     "done": true
   },
@@ -1702,6 +1722,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-06-21 07:22:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_stairs": {
     "criteria": {
       "has_planks": "2025-06-21 05:36:41 +0000"
@@ -1720,9 +1746,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-06-21 07:22:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-06-21 05:46:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-06-21 07:22:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-06-21 07:22:38 +0000"
     },
     "done": true
   },
@@ -1962,6 +2006,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-06-21 07:22:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-06-21 07:05:01 +0000"
@@ -1971,6 +2021,12 @@
   "minecraft:recipes/decorations/crimson_sign": {
     "criteria": {
       "has_planks": "2025-06-21 05:36:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-06-21 07:22:38 +0000"
     },
     "done": true
   },
@@ -2022,6 +2078,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-06-21 07:22:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-06-21 06:46:24 +0000"
@@ -2070,6 +2132,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-06-21 07:22:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-06-21 06:36:33 +0000"
@@ -2103,6 +2171,12 @@
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-06-21 07:16:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-06-21 07:22:38 +0000"
     },
     "done": true
   },

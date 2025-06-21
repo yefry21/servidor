@@ -232,3 +232,7 @@
 [07:05:01] [Server thread/INFO]: yefry has made the advancement [Enchanter]
 [07:06:31] [Server thread/INFO]: [Not Secure] <yefry> eeeezzzz
 [07:18:22] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=172, y=73, z=-254} iz{x=172, y=71, z=-254}
+[07:27:46] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=147, y=49, z=-287} iz{x=146, y=49, z=-287}
+[07:28:39] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=212, y=69, z=-287} iz{x=211, y=68, z=-287}
+[07:28:39] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=212, y=69, z=-287} iz{x=211, y=68, z=-287}
+[07:28:39] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=212, y=69, z=-287} iz{x=211, y=68, z=-287}

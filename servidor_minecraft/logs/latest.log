@@ -118,3 +118,47 @@
 [02:29:31] [Server thread/INFO]: yefry has made the advancement [Fishy Business]
 [02:33:33] [Server thread/INFO]: V44nxx has made the advancement [Hot Stuff]
 [02:33:43] [Server thread/INFO]: ShonA has made the advancement [Hot Stuff]
+[02:38:48] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-461, y=62, z=23} iz{x=-461, y=61, z=23}
+[02:43:16] [Server thread/INFO]: yefry lost connection: Disconnected
+[02:43:16] [Server thread/INFO]: yefry left the game
+[02:43:18] [Server thread/INFO]: [Not Secure] <V44nxx> ZZ
+[02:43:20] [Server thread/INFO]: [Not Secure] <V44nxx> ZZZ
+[02:43:22] [Server thread/INFO]: [Not Secure] <FabianTc> w
+[02:43:30] [Server thread/INFO]: yefry[/172.23.39.99:57887] logged in with entity id 31314 at (-336.38851261160755, 48.0, 92.80352105378184)
+[02:43:30] [Server thread/INFO]: yefry joined the game
+[02:45:06] [Server thread/INFO]: FabianTc has made the advancement [Ol' Betsy]
+[02:45:06] [Server thread/INFO]: FabianTc has made the advancement [Take Aim]
+[02:45:42] [Server thread/INFO]: FabianTc has made the advancement [Who's the Pillager Now?]
+[02:47:25] [Server thread/INFO]: FabianTc has made the advancement [Voluntary Exile]
+[02:52:43] [Server thread/WARN]: Oak Boat (vehicle of FabianTc) moved wrongly! 0.4943554398747665
+[02:52:43] [Server thread/WARN]: Oak Boat (vehicle of FabianTc) moved wrongly! 0.8105781406678716
+[02:53:08] [Server thread/INFO]: yefry has made the advancement [Acquire Hardware]
+[02:53:17] [Server thread/INFO]: yefry has made the advancement [Isn't It Iron Pick]
+[02:53:24] [Server thread/INFO]: yefry has made the advancement [Suit Up]
+[02:55:04] [Server thread/INFO]: yefry lost connection: Disconnected
+[02:55:04] [Server thread/INFO]: yefry left the game
+[02:55:41] [Server thread/INFO]: yefry[/172.23.39.99:58875] logged in with entity id 47146 at (-333.0929842291676, 1.0, 67.66534848654594)
+[02:55:41] [Server thread/INFO]: yefry joined the game
+[02:56:20] [Server thread/INFO]: yefry has made the advancement [Diamonds!]
+[02:57:09] [Server thread/INFO]: ShonA has made the advancement [Isn't It Iron Pick]
+[02:58:29] [Server thread/INFO]: ShonA has made the advancement [What a Deal!]
+[02:58:37] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-3138, y=65, z=2553} iz{x=-3140, y=67, z=2553}
+[03:03:25] [Server thread/INFO]: yefry fell from a high place
+[03:06:12] [Server thread/INFO]: yefry lost connection: Disconnected
+[03:06:12] [Server thread/INFO]: yefry left the game
+[03:06:33] [Server thread/INFO]: yefry[/172.23.39.99:59547] logged in with entity id 54877 at (6.102467514696287, 79.0, 230.42344294329095)
+[03:06:33] [Server thread/INFO]: yefry joined the game
+[03:13:28] [Server thread/INFO]: FabianTc has reached the goal [Postmortal]
+[03:16:06] [Server thread/INFO]: yefry fell from a high place
+[03:18:31] [Server thread/INFO]: Villager cml['Villager'/65751, l='ServerLevel[world]', x=1368.50, y=68.00, z=48.85] died, message: 'Villager suffocated in a wall'
+[03:20:39] [Server thread/INFO]: yefry has made the advancement [Cover Me with Diamonds]
+[03:23:21] [Server thread/INFO]: V44nxx lost connection: Disconnected
+[03:23:21] [Server thread/INFO]: V44nxx left the game
+[03:24:33] [Server thread/INFO]: FabianTc lost connection: Timed out
+[03:24:33] [Server thread/INFO]: FabianTc left the game
+[03:24:33] [Server thread/WARN]: handleDisconnection() called twice
+[03:24:53] [Server thread/INFO]: FabianTc[/172.23.250.146:54990] logged in with entity id 72452 at (995.9075946587003, 120.49520087700593, -905.0987549118812)
+[03:24:53] [Server thread/INFO]: FabianTc joined the game
+[03:25:55] [Server thread/INFO]: yefry has made the advancement [Not Today, Thank You]
+[03:27:09] [Server thread/INFO]: FabianTc lost connection: Timed out
+[03:27:09] [Server thread/INFO]: FabianTc left the game

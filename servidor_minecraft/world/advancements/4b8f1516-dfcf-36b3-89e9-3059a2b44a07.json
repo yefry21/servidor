@@ -137,6 +137,18 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-06-21 02:33:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-21 02:43:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-21 01:48:17 +0000"
@@ -197,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-06-21 02:43:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-06-21 01:59:30 +0000"
@@ -254,6 +272,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-06-21 01:39:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-21 03:12:40 +0000"
     },
     "done": true
   },
@@ -344,6 +368,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-06-21 01:48:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-06-21 03:08:46 +0000"
     },
     "done": true
   },
@@ -497,6 +527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2025-06-21 02:33:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-21 02:15:01 +0000"
@@ -512,6 +548,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-06-21 02:07:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-21 02:43:40 +0000"
     },
     "done": true
   },
@@ -623,6 +665,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-21 02:43:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-06-21 03:15:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-21 02:43:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-06-21 01:57:52 +0000"
@@ -693,11 +753,21 @@
     "criteria": {
       "minecraft:cave_spider": "2025-06-21 02:03:45 +0000",
       "minecraft:skeleton": "2025-06-21 02:00:20 +0000",
+      "minecraft:enderman": "2025-06-21 03:21:31 +0000",
       "minecraft:witch": "2025-06-21 02:07:08 +0000",
+      "minecraft:spider": "2025-06-21 03:12:40 +0000",
       "minecraft:zombie": "2025-06-21 01:53:27 +0000",
-      "minecraft:drowned": "2025-06-21 02:25:11 +0000"
+      "minecraft:creeper": "2025-06-21 03:19:21 +0000",
+      "minecraft:drowned": "2025-06-21 02:25:11 +0000",
+      "minecraft:zombie_villager": "2025-06-21 03:19:47 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2025-06-21 02:58:34 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
@@ -708,6 +778,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-06-21 01:43:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2025-06-21 02:58:34 +0000"
     },
     "done": true
   },
@@ -762,6 +838,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-06-21 01:43:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-21 02:43:40 +0000"
     },
     "done": true
   },
@@ -833,10 +915,21 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-06-21 02:32:41 +0000",
+      "minecraft:dark_forest": "2025-06-21 02:52:48 +0000",
       "minecraft:forest": "2025-06-21 01:40:20 +0000",
+      "minecraft:sparse_jungle": "2025-06-21 02:51:03 +0000",
+      "minecraft:deep_ocean": "2025-06-21 02:44:14 +0000",
       "minecraft:river": "2025-06-21 02:13:28 +0000",
+      "minecraft:lukewarm_ocean": "2025-06-21 02:44:49 +0000",
+      "minecraft:dripstone_caves": "2025-06-21 03:12:13 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-21 02:42:05 +0000",
+      "minecraft:ocean": "2025-06-21 02:43:56 +0000",
+      "minecraft:jungle": "2025-06-21 02:49:26 +0000",
+      "minecraft:sunflower_plains": "2025-06-21 02:31:49 +0000",
       "minecraft:meadow": "2025-06-21 01:49:30 +0000",
-      "minecraft:plains": "2025-06-21 01:37:16 +0000"
+      "minecraft:plains": "2025-06-21 01:37:16 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-06-21 02:45:35 +0000"
     },
     "done": false
   },
@@ -876,9 +969,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2025-06-21 02:58:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-21 02:59:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-06-21 02:50:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-06-21 01:39:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-06-21 02:55:36 +0000"
     },
     "done": true
   },
@@ -894,18 +1011,38 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-06-21 02:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2025-06-21 02:33:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-06-21 01:49:19 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-06-21 03:19:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-06-21 02:40:11 +0000",
       "mutton": "2025-06-21 01:41:04 +0000",
       "bread": "2025-06-21 02:17:08 +0000",
       "cooked_mutton": "2025-06-21 01:53:31 +0000",
       "glow_berries": "2025-06-21 02:04:46 +0000",
+      "cooked_beef": "2025-06-21 02:34:05 +0000",
       "beef": "2025-06-21 01:49:34 +0000",
       "porkchop": "2025-06-21 01:44:13 +0000"
     },
@@ -923,9 +1060,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-21 02:59:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-06-21 02:50:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-21 01:48:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2025-06-21 02:33:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-06-21 02:56:10 +0000"
     },
     "done": true
   },
@@ -935,9 +1096,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-06-21 03:19:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-21 02:15:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-21 02:43:40 +0000"
     },
     "done": true
   },
@@ -1001,6 +1174,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-21 02:43:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-21 02:43:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-06-21 01:48:11 +0000"
@@ -1019,6 +1204,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-06-21 03:08:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-06-21 02:02:52 +0000"
@@ -1028,6 +1219,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-06-21 01:48:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-06-21 02:50:29 +0000"
     },
     "done": true
   },

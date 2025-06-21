@@ -539,6 +539,7 @@
       "minecraft:spider": "2025-06-21 02:25:03 +0000",
       "minecraft:zombie": "2025-06-21 01:52:58 +0000",
       "minecraft:creeper": "2025-06-21 02:58:15 +0000",
+      "minecraft:zombie_villager": "2025-06-21 04:06:51 +0000",
       "minecraft:evoker": "2025-06-21 02:59:01 +0000"
     },
     "done": false
@@ -1635,6 +1636,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-06-21 04:04:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-06-21 04:22:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-06-21 03:33:48 +0000"
@@ -1686,6 +1699,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-06-21 03:54:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-06-21 04:22:28 +0000"
     },
     "done": true
   },

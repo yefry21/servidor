@@ -1,249 +1,80 @@
-[01:16:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:16:10] [ServerMain/INFO]: No existing world data, creating new world
-[01:16:12] [ServerMain/INFO]: Loaded 1175 recipes
-[01:16:13] [ServerMain/INFO]: Loaded 1276 advancements
-[01:16:14] [Server thread/INFO]: Starting minecraft server version 1.20.5
-[01:16:14] [Server thread/INFO]: Loading properties
-[01:16:14] [Server thread/INFO]: Default game type: SURVIVAL
-[01:16:14] [Server thread/INFO]: Generating keypair
-[01:16:14] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:16:15] [Server thread/INFO]: Using epoll channel type
-[01:16:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:16:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:16:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:16:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:16:15] [Server thread/INFO]: Preparing level "world"
-[01:16:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:16:34] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[01:16:34] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[01:16:35] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[01:16:35] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[01:16:36] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[01:16:36] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[01:16:37] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[01:16:37] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[01:16:38] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[01:16:38] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[01:16:39] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[01:16:39] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[01:16:40] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[01:16:40] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[01:16:41] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[01:16:41] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[01:16:42] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[01:16:42] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[01:16:43] [Server thread/INFO]: Time elapsed: 8854 ms
-[01:16:43] [Server thread/INFO]: Done (27.681s)! For help, type "help"
-[01:24:26] [Server thread/INFO]: yefry[/172.23.39.99:52169] logged in with entity id 54 at (20.5, 71.0, -35.5)
-[01:24:26] [Server thread/INFO]: yefry joined the game
-[01:24:29] [Server thread/INFO]: yefry lost connection: Disconnected
-[01:24:29] [Server thread/INFO]: yefry left the game
-[01:31:05] [Server thread/INFO]: yefry[/172.23.39.99:52727] logged in with entity id 79 at (20.5, 71.0, -35.5)
-[01:31:05] [Server thread/INFO]: yefry joined the game
-[01:31:47] [Server thread/INFO]: yefry lost connection: Disconnected
-[01:31:47] [Server thread/INFO]: yefry left the game
-[01:35:53] [Server thread/INFO]: yefry[/172.23.39.99:53115] logged in with entity id 467 at (101.30000001192093, 62.0, -70.69999998807907)
-[01:35:53] [Server thread/INFO]: yefry joined the game
-[01:36:44] [Server thread/INFO]: yefry lost connection: Disconnected
-[01:36:44] [Server thread/INFO]: yefry left the game
-[01:37:15] [Server thread/INFO]: V44nxx[/172.23.249.64:54370] logged in with entity id 908 at (25.5, 70.0, -37.5)
-[01:37:15] [Server thread/INFO]: V44nxx joined the game
-[01:37:29] [Server thread/INFO]: yefry[/172.23.39.99:53233] logged in with entity id 1158 at (87.42361165677038, 78.0, -28.27131150536141)
-[01:37:29] [Server thread/INFO]: yefry joined the game
-[01:37:51] [Server thread/INFO]: FabianTc[/172.23.250.146:49708] logged in with entity id 1328 at (24.5, 72.0, -32.5)
-[01:37:51] [Server thread/INFO]: FabianTc joined the game
-[01:37:52] [Server thread/INFO]: yefry lost connection: Disconnected
-[01:37:52] [Server thread/INFO]: yefry left the game
-[01:38:53] [Server thread/INFO]: FabianTc has made the advancement [Stone Age]
-[01:39:24] [Server thread/INFO]: V44nxx has made the advancement [Stone Age]
-[01:39:27] [Server thread/INFO]: FabianTc has made the advancement [Getting an Upgrade]
-[01:40:02] [Server thread/INFO]: V44nxx has made the advancement [Getting an Upgrade]
-[01:41:20] [Server thread/INFO]: V44nxx was slain by FabianTc
-[01:41:24] [Server thread/INFO]: Jd_tnx[/172.23.112.251:64286] logged in with entity id 2566 at (15.5, 68.0, -36.5)
-[01:41:24] [Server thread/INFO]: Jd_tnx joined the game
-[01:41:36] [Server thread/INFO]: yefry[/172.23.39.99:53529] logged in with entity id 2632 at (18.560803166426897, 67.0, -64.00404895707447)
-[01:41:36] [Server thread/INFO]: yefry joined the game
-[01:41:52] [Server thread/INFO]: Jd_tnx was slain by FabianTc
-[01:43:05] [Server thread/INFO]: yefry lost connection: Disconnected
-[01:43:05] [Server thread/INFO]: yefry left the game
-[01:43:36] [Server thread/INFO]: V44nxx has made the advancement [Acquire Hardware]
-[01:43:48] [Server thread/INFO]: V44nxx has made the advancement [Isn't It Iron Pick]
-[01:44:03] [Server thread/INFO]: Jd_tnx has made the advancement [Stone Age]
-[01:44:38] [Server thread/INFO]: Jd_tnx has made the advancement [Getting an Upgrade]
-[01:45:52] [Server thread/INFO]: V44nxx has made the advancement [Suit Up]
-[01:48:11] [Server thread/INFO]: V44nxx has made the advancement [Diamonds!]
-[01:49:20] [Server thread/INFO]: FabianTc has made the advancement [Monster Hunter]
-[01:50:54] [Server thread/INFO]: FabianTc has made the advancement [Ice Bucket Challenge]
-[01:51:43] [Server thread/INFO]: Jd_tnx lost connection: Disconnected
-[01:51:43] [Server thread/INFO]: Jd_tnx left the game
-[01:51:52] [Server thread/INFO]: V44nxx has made the advancement [Sweet Dreams]
-[01:51:58] [Server thread/INFO]: [Not Secure] <FabianTc> t
-[01:52:01] [Server thread/INFO]: FabianTc has made the advancement [Sweet Dreams]
-[01:52:02] [Server thread/INFO]: [Not Secure] <V44nxx> zzzzzzzzzzzzz
-[01:52:04] [Server thread/INFO]: [Not Secure] <V44nxx> zzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[01:53:27] [Server thread/INFO]: V44nxx has made the advancement [Monster Hunter]
-[02:00:14] [Server thread/INFO]: V44nxx has made the advancement [Not Today, Thank You]
-[02:01:09] [Server thread/INFO]: FabianTc has made the advancement [Acquire Hardware]
-[02:01:25] [Server thread/INFO]: FabianTc has made the advancement [Isn't It Iron Pick]
-[02:03:29] [Server thread/INFO]: yefry[/172.23.39.99:54288] logged in with entity id 9085 at (54.69999998807907, 69.0, 60.52126673789205)
-[02:03:29] [Server thread/INFO]: yefry joined the game
-[02:03:43] [Server thread/INFO]: yefry has made the advancement [Stone Age]
-[02:04:29] [Server thread/INFO]: V44nxx has made the advancement [Cover Me with Diamonds]
-[02:05:48] [Server thread/INFO]: yefry has made the advancement [Getting an Upgrade]
-[02:06:08] [Server thread/INFO]: FabianTc has made the advancement [Diamonds!]
-[02:06:37] [Server thread/INFO]: yefry lost connection: Disconnected
-[02:06:37] [Server thread/INFO]: yefry left the game
-[02:07:31] [Server thread/INFO]: FabianTc has made the advancement [Suit Up]
-[02:12:15] [Server thread/INFO]: ShonA[/172.23.68.227:50165] logged in with entity id 12276 at (11.5, 68.0, -33.5)
-[02:12:15] [Server thread/INFO]: ShonA joined the game
-[02:13:57] [Server thread/INFO]: ShonA has made the advancement [Stone Age]
-[02:15:45] [Server thread/INFO]: FabianTc has made the advancement [Hot Stuff]
-[02:17:38] [Server thread/INFO]: ShonA has made the advancement [Getting an Upgrade]
-[02:19:26] [Server thread/INFO]: yefry[/172.23.39.99:55288] logged in with entity id 15161 at (-185.69657565588705, 72.0, 126.72593798980813)
-[02:19:26] [Server thread/INFO]: yefry joined the game
-[02:19:42] [Server thread/INFO]: [Not Secure] <yefry> perras
-[02:19:54] [Server thread/INFO]: yefry has made the advancement [Monster Hunter]
-[02:21:25] [Server thread/INFO]: FabianTc has made the advancement [We Need to Go Deeper]
-[02:21:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3972ms or 79 ticks behind
-[02:21:32] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-16, y=61, z=-196} iz{x=-16, y=62, z=-196}
-[02:21:48] [Server thread/INFO]: ShonA has made the advancement [Suit Up]
-[02:22:13] [Server thread/INFO]: ShonA has made the advancement [Diamonds!]
-[02:23:04] [Server thread/INFO]: FabianTc has made the advancement [Not Today, Thank You]
-[02:23:17] [Server thread/INFO]: ShonA has made the advancement [Acquire Hardware]
-[02:24:33] [Server thread/INFO]: ShonA has made the advancement [Sweet Dreams]
-[02:24:38] [Server thread/INFO]: [Not Secure] <V44nxx> -0 -232
-[02:25:24] [Server thread/INFO]: ShonA has made the advancement [Monster Hunter]
-[02:25:51] [Server thread/INFO]: ShonA has made the advancement [Not Today, Thank You]
-[02:28:30] [Server thread/INFO]: yefry has made the advancement [A Seedy Place]
-[02:29:31] [Server thread/INFO]: yefry has made the advancement [Fishy Business]
-[02:33:33] [Server thread/INFO]: V44nxx has made the advancement [Hot Stuff]
-[02:33:43] [Server thread/INFO]: ShonA has made the advancement [Hot Stuff]
-[02:38:48] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-461, y=62, z=23} iz{x=-461, y=61, z=23}
-[02:43:16] [Server thread/INFO]: yefry lost connection: Disconnected
-[02:43:16] [Server thread/INFO]: yefry left the game
-[02:43:18] [Server thread/INFO]: [Not Secure] <V44nxx> ZZ
-[02:43:20] [Server thread/INFO]: [Not Secure] <V44nxx> ZZZ
-[02:43:22] [Server thread/INFO]: [Not Secure] <FabianTc> w
-[02:43:30] [Server thread/INFO]: yefry[/172.23.39.99:57887] logged in with entity id 31314 at (-336.38851261160755, 48.0, 92.80352105378184)
-[02:43:30] [Server thread/INFO]: yefry joined the game
-[02:45:06] [Server thread/INFO]: FabianTc has made the advancement [Ol' Betsy]
-[02:45:06] [Server thread/INFO]: FabianTc has made the advancement [Take Aim]
-[02:45:42] [Server thread/INFO]: FabianTc has made the advancement [Who's the Pillager Now?]
-[02:47:25] [Server thread/INFO]: FabianTc has made the advancement [Voluntary Exile]
-[02:52:43] [Server thread/WARN]: Oak Boat (vehicle of FabianTc) moved wrongly! 0.4943554398747665
-[02:52:43] [Server thread/WARN]: Oak Boat (vehicle of FabianTc) moved wrongly! 0.8105781406678716
-[02:53:08] [Server thread/INFO]: yefry has made the advancement [Acquire Hardware]
-[02:53:17] [Server thread/INFO]: yefry has made the advancement [Isn't It Iron Pick]
-[02:53:24] [Server thread/INFO]: yefry has made the advancement [Suit Up]
-[02:55:04] [Server thread/INFO]: yefry lost connection: Disconnected
-[02:55:04] [Server thread/INFO]: yefry left the game
-[02:55:41] [Server thread/INFO]: yefry[/172.23.39.99:58875] logged in with entity id 47146 at (-333.0929842291676, 1.0, 67.66534848654594)
-[02:55:41] [Server thread/INFO]: yefry joined the game
-[02:56:20] [Server thread/INFO]: yefry has made the advancement [Diamonds!]
-[02:57:09] [Server thread/INFO]: ShonA has made the advancement [Isn't It Iron Pick]
-[02:58:29] [Server thread/INFO]: ShonA has made the advancement [What a Deal!]
-[02:58:37] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-3138, y=65, z=2553} iz{x=-3140, y=67, z=2553}
-[03:03:25] [Server thread/INFO]: yefry fell from a high place
-[03:06:12] [Server thread/INFO]: yefry lost connection: Disconnected
-[03:06:12] [Server thread/INFO]: yefry left the game
-[03:06:33] [Server thread/INFO]: yefry[/172.23.39.99:59547] logged in with entity id 54877 at (6.102467514696287, 79.0, 230.42344294329095)
-[03:06:33] [Server thread/INFO]: yefry joined the game
-[03:13:28] [Server thread/INFO]: FabianTc has reached the goal [Postmortal]
-[03:16:06] [Server thread/INFO]: yefry fell from a high place
-[03:18:31] [Server thread/INFO]: Villager cml['Villager'/65751, l='ServerLevel[world]', x=1368.50, y=68.00, z=48.85] died, message: 'Villager suffocated in a wall'
-[03:20:39] [Server thread/INFO]: yefry has made the advancement [Cover Me with Diamonds]
-[03:23:21] [Server thread/INFO]: V44nxx lost connection: Disconnected
-[03:23:21] [Server thread/INFO]: V44nxx left the game
-[03:24:33] [Server thread/INFO]: FabianTc lost connection: Timed out
-[03:24:33] [Server thread/INFO]: FabianTc left the game
-[03:24:33] [Server thread/WARN]: handleDisconnection() called twice
-[03:24:53] [Server thread/INFO]: FabianTc[/172.23.250.146:54990] logged in with entity id 72452 at (995.9075946587003, 120.49520087700593, -905.0987549118812)
-[03:24:53] [Server thread/INFO]: FabianTc joined the game
-[03:25:55] [Server thread/INFO]: yefry has made the advancement [Not Today, Thank You]
-[03:27:09] [Server thread/INFO]: FabianTc lost connection: Timed out
-[03:27:09] [Server thread/INFO]: FabianTc left the game
-[03:27:21] [Server thread/INFO]: FabianTc[/172.23.250.146:55110] logged in with entity id 74700 at (1101.5220261840382, 69.0, -1360.3967799553382)
-[03:27:21] [Server thread/INFO]: FabianTc joined the game
-[03:28:52] [Server thread/INFO]: [Not Secure] <FabianTc> 1213 / 73 / -1447
-[03:30:06] [Server thread/INFO]: FabianTc lost connection: Disconnected
-[03:30:06] [Server thread/INFO]: FabianTc left the game
-[03:30:17] [Server thread/INFO]: FabianTc[/172.23.250.146:55266] logged in with entity id 76533 at (1212.5, 72.6875, -1457.5)
-[03:30:17] [Server thread/INFO]: FabianTc joined the game
-[03:30:44] [Server thread/INFO]: [Not Secure] <FabianTc> we
-[03:30:45] [Server thread/INFO]: [Not Secure] <FabianTc> wew
-[03:30:46] [Server thread/INFO]: [Not Secure] <FabianTc> ew
-[03:30:46] [Server thread/INFO]: [Not Secure] <FabianTc> e
-[03:30:46] [Server thread/INFO]: [Not Secure] <FabianTc> we
-[03:30:46] [Server thread/INFO]: [Not Secure] <FabianTc> we
-[03:30:46] [Server thread/INFO]: [Not Secure] <FabianTc> we
-[03:30:47] [Server thread/INFO]: [Not Secure] <FabianTc> we
-[03:30:47] [Server thread/INFO]: [Not Secure] <FabianTc> w
-[03:30:47] [Server thread/INFO]: [Not Secure] <FabianTc> e
-[03:30:47] [Server thread/INFO]: [Not Secure] <FabianTc> we
-[03:30:48] [Server thread/INFO]: [Not Secure] <FabianTc> e
-[03:30:48] [Server thread/INFO]: [Not Secure] <FabianTc> we
-[03:31:16] [Server thread/INFO]: yefry has made the advancement [Ice Bucket Challenge]
-[03:36:18] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=1205, y=73, z=-1472} iz{x=1206, y=71, z=-1473}
-[03:36:18] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=1205, y=73, z=-1472} iz{x=1206, y=71, z=-1473}
-[03:36:18] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=1205, y=73, z=-1472} iz{x=1206, y=71, z=-1473}
-[03:36:18] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=1205, y=73, z=-1472} iz{x=1206, y=71, z=-1473}
-[03:36:20] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=1207, y=73, z=-1466} iz{x=1205, y=71, z=-1466}
-[03:36:50] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=1210, y=73, z=-1473} iz{x=1209, y=71, z=-1475}
-[03:37:59] [Server thread/INFO]: ShonA was impaled on a stalagmite
-[03:39:33] [Server thread/INFO]: ShonA fell from a high place
-[03:40:22] [Server thread/INFO]: [Not Secure] <FabianTc> twwwwwwwwwwwwwwwwww
-[03:40:50] [Server thread/INFO]: ShonA fell from a high place
-[03:43:53] [Server thread/INFO]: ShonA was impaled on a stalagmite
-[03:47:32] [Server thread/INFO]: yefry lost connection: Disconnected
-[03:47:32] [Server thread/INFO]: yefry left the game
-[03:47:43] [Server thread/INFO]: [Not Secure] <FabianTc> dww
-[03:47:46] [Server thread/INFO]: yefry[/172.23.39.99:62047] logged in with entity id 87987 at (-266.82496195384766, -58.0, 93.67583630153203)
-[03:47:46] [Server thread/INFO]: yefry joined the game
-[03:56:21] [Server thread/INFO]: ShonA was blown up by Creeper
-[03:57:33] [Server thread/INFO]: ShonA lost connection: Disconnected
-[03:57:33] [Server thread/INFO]: ShonA left the game
-[04:08:30] [Server thread/INFO]: [Not Secure] <yefry> tt
-[04:08:35] [Server thread/INFO]: [Not Secure] <yefry> t
-[04:09:19] [Server thread/INFO]: [Not Secure] <FabianTc> -1216 /72 / -1449
-[04:09:54] [Server thread/INFO]: [Not Secure] <yefry> tt
-[04:14:00] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=1210, y=72, z=-1477} iz{x=1208, y=71, z=-1476}
-[04:14:00] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=1210, y=72, z=-1477} iz{x=1208, y=71, z=-1476}
-[04:34:12] [Server thread/INFO]: yefry has made the advancement [What a Deal!]
-[04:39:07] [Server thread/INFO]: yefry has made the advancement [Sweet Dreams]
-[04:41:23] [Server thread/INFO]: [Not Secure] <FabianTc> t
-[04:42:00] [Server thread/INFO]: [Not Secure] <FabianTc> 1216 / 72 / -14449
-[04:44:00] [Server thread/INFO]: [Not Secure] <yefry> }
-[04:49:18] [Server thread/WARN]: Oak Boat (vehicle of yefry) moved wrongly! 0.2616260040263114
-[04:59:22] [Server thread/INFO]: yefry has made the advancement [Who is Cutting Onions?]
-[05:03:59] [Server thread/INFO]: yefry has made the advancement [We Need to Go Deeper]
-[05:04:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2854ms or 57 ticks behind
-[05:04:14] [Server thread/INFO]: FabianTc fell from a high place
-[05:15:44] [Server thread/WARN]: FabianTc moved too quickly! 8.81874039361287,-2.0,4.378785125341892
-[05:15:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6955ms or 139 ticks behind
-[05:29:44] [Server thread/INFO]: FabianTc has completed the challenge [Return to Sender]
-[05:50:54] [Server thread/INFO]: [Not Secure] <FabianTc> 1212c/
-[05:51:11] [Server thread/INFO]: [Not Secure] <FabianTc> 1212 / 70 / -1469
-[06:05:38] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=1212, y=74, z=-1431} iz{x=1212, y=72, z=-1431}
-[06:05:38] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=1212, y=73, z=-1430} iz{x=1213, y=72, z=-1430}
-[06:05:38] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=1212, y=73, z=-1430} iz{x=1213, y=72, z=-1430}
-[06:11:44] [Server thread/INFO]: FabianTc was slain by Zombie
-[06:36:19] [Server thread/INFO]: FabianTc has made the advancement [What a Deal!]
-[07:00:37] [Server thread/INFO]: Villager cml['Nitwit'/146664, l='ServerLevel[world]', x=1199.91, y=73.00, z=-1456.46] died, message: 'Nitwit was slain by yefry'
-[07:05:01] [Server thread/INFO]: yefry has made the advancement [Enchanter]
-[07:06:31] [Server thread/INFO]: [Not Secure] <yefry> eeeezzzz
-[07:18:22] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=172, y=73, z=-254} iz{x=172, y=71, z=-254}
-[07:27:46] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=147, y=49, z=-287} iz{x=146, y=49, z=-287}
-[07:28:39] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=212, y=69, z=-287} iz{x=211, y=68, z=-287}
-[07:28:39] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=212, y=69, z=-287} iz{x=211, y=68, z=-287}
-[07:28:39] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=212, y=69, z=-287} iz{x=211, y=68, z=-287}
-[07:34:25] [Server thread/INFO]: FabianTc has made the advancement [Who is Cutting Onions?]
-[07:35:13] [Server thread/WARN]: yefry moved too quickly! -4.056249701527975,3.0,-8.693740271141792
-[07:35:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5562ms or 111 ticks behind
-[07:43:18] [Server thread/INFO]: FabianTc tried to swim in lava
-[07:47:14] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=172, y=85, z=-185} iz{x=172, y=83, z=-185}
-[07:47:14] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=172, y=85, z=-185} iz{x=172, y=83, z=-185}
-[07:47:14] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=172, y=85, z=-185} iz{x=172, y=83, z=-185}
-[07:47:14] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=172, y=85, z=-185} iz{x=172, y=83, z=-185}
-[07:55:05] [Server thread/INFO]: yefry has made the advancement [Take Aim]
-[07:56:45] [Server thread/INFO]: FabianTc lost connection: Disconnected
-[07:56:45] [Server thread/INFO]: FabianTc left the game
+[23:18:41] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:18:46] [ServerMain/INFO]: Loaded 1175 recipes
+[23:18:47] [ServerMain/INFO]: Loaded 1276 advancements
+[23:18:48] [Server thread/INFO]: Starting minecraft server version 1.20.5
+[23:18:48] [Server thread/INFO]: Loading properties
+[23:18:48] [Server thread/INFO]: Default game type: SURVIVAL
+[23:18:48] [Server thread/INFO]: Generating keypair
+[23:18:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:18:49] [Server thread/INFO]: Using epoll channel type
+[23:18:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:18:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:18:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:18:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:18:49] [Server thread/INFO]: Preparing level "world"
+[23:19:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:19:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:08] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[23:19:08] [Server thread/INFO]: Time elapsed: 6606 ms
+[23:19:08] [Server thread/INFO]: Done (18.322s)! For help, type "help"
+[23:19:18] [Server thread/INFO]: FabianTc[/172.23.250.146:58311] logged in with entity id 7 at (1212.6210680156407, 72.0, -1462.312339020208)
+[23:19:18] [Server thread/INFO]: FabianTc joined the game
+[23:19:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3984ms or 79 ticks behind
+[23:20:45] [Server thread/INFO]: V44nxx[/172.23.249.64:51464] logged in with entity id 382 at (-3278.156609680201, 22.0, 2463.102896185405)
+[23:20:45] [Server thread/INFO]: V44nxx joined the game
+[23:20:52] [Server thread/INFO]: [Not Secure] <FabianTc> Rata
+[23:21:01] [Server thread/INFO]: [Not Secure] <V44nxx> raton de cloaca
+[23:22:29] [Server thread/INFO]: [Not Secure] <FabianTc> duerma bro
+[23:23:30] [Server thread/INFO]: [Not Secure] <V44nxx> zzz
+[23:23:31] [Server thread/INFO]: [Not Secure] <V44nxx> zzz
+[23:23:32] [Server thread/INFO]: [Not Secure] <V44nxx> zzz
+[23:23:32] [Server thread/INFO]: [Not Secure] <V44nxx> zz
+[23:23:33] [Server thread/INFO]: [Not Secure] <V44nxx> z
+[23:23:33] [Server thread/INFO]: [Not Secure] <V44nxx> z
+[23:23:33] [Server thread/INFO]: [Not Secure] <V44nxx> z
+[23:23:33] [Server thread/INFO]: [Not Secure] <V44nxx> zz
+[23:23:33] [Server thread/INFO]: [Not Secure] <V44nxx> z
+[23:23:33] [Server thread/INFO]: [Not Secure] <V44nxx> z
+[23:23:35] [Server thread/INFO]: [Not Secure] <V44nxx> z
+[23:25:23] [Server thread/INFO]: [Not Secure] <FabianTc> entre a discrod sunga
+[23:25:29] [Server thread/INFO]: [Not Secure] <V44nxx> shite
+[23:25:59] [Server thread/INFO]: ShonA[/172.23.68.227:50568] logged in with entity id 3328 at (-3146.153045055345, 63.9375, 2571.456680554494)
+[23:26:00] [Server thread/INFO]: ShonA joined the game
+[23:32:17] [Server thread/INFO]: Jd_tnx[/172.23.112.251:52828] logged in with entity id 7665 at (-31.69999998807907, 67.0, 67.30000001192093)
+[23:32:17] [Server thread/INFO]: Jd_tnx joined the game
+[23:34:21] [Server thread/INFO]: Jd_tnx has made the advancement [Monster Hunter]
+[23:34:41] [Server thread/INFO]: ShonA lost connection: Disconnected
+[23:34:41] [Server thread/INFO]: ShonA left the game
+[23:35:27] [Server thread/INFO]: Jd_tnx has made the advancement [Acquire Hardware]
+[23:35:43] [Server thread/INFO]: Jd_tnx has made the advancement [Isn't It Iron Pick]
+[23:35:58] [Server thread/INFO]: V44nxx has made the advancement [Ice Bucket Challenge]
+[23:36:05] [Server thread/INFO]: [Not Secure] <V44nxx> buena bro
+[23:36:11] [Server thread/INFO]: [Not Secure] <FabianTc> r
+[23:36:59] [Server thread/INFO]: FabianTc suffocated in a wall
+[23:38:29] [Server thread/INFO]: Jd_tnx has made the advancement [Not Today, Thank You]
+[23:39:50] [Server thread/INFO]: [Not Secure] <FabianTc> ole
+[23:39:53] [Server thread/INFO]: [Not Secure] <FabianTc> ermer
+[23:39:56] [Server thread/INFO]: [Not Secure] <V44nxx> eo
+[23:39:57] [Server thread/INFO]: [Not Secure] <FabianTc> entre a dc
+[23:40:06] [Server thread/INFO]: [Not Secure] <V44nxx> espere que ando haciendo algo
+[23:40:10] [Server thread/INFO]: [Not Secure] <FabianTc> tww
+[23:40:34] [Server thread/INFO]: Jd_tnx has made the advancement [Suit Up]
+[23:40:35] [Server thread/INFO]: [Not Secure] <FabianTc> zzz
+[23:40:37] [Server thread/INFO]: [Not Secure] <FabianTc> zzz
+[23:40:40] [Server thread/INFO]: [Not Secure] <FabianTc> zzz
+[23:43:03] [Server thread/INFO]: ShonA[/172.23.68.227:53546] logged in with entity id 16014 at (-3292.1963076007983, 66.0, 2511.539516644624)
+[23:43:03] [Server thread/INFO]: ShonA joined the game
+[23:43:22] [Server thread/INFO]: Jd_tnx has made the advancement [Diamonds!]
+[23:47:18] [Server thread/INFO]: Jd_tnx has made the advancement [Cover Me with Diamonds]

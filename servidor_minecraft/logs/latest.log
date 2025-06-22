@@ -151,3 +151,10 @@
 [03:15:23] [Server thread/INFO]: ShonA left the game
 [03:15:44] [Server thread/INFO]: ShonA[/172.23.68.227:49524] logged in with entity id 191450 at (-389.69999998807907, 55.0, 323.06371869237614)
 [03:15:44] [Server thread/INFO]: ShonA joined the game
+[03:18:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[03:21:53] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-360, y=67, z=-720} iz{x=-359, y=66, z=-720}
+[03:22:38] [Server thread/INFO]: ShonA has made the advancement [Hidden in the Depths]
+[03:25:58] [Server thread/INFO]: ShonA lost connection: Disconnected
+[03:25:58] [Server thread/INFO]: ShonA left the game
+[03:26:28] [Server thread/INFO]: ShonA[/172.23.68.227:50278] logged in with entity id 199290 at (-361.50952767171464, 19.0, 308.61130964676227)
+[03:26:28] [Server thread/INFO]: ShonA joined the game

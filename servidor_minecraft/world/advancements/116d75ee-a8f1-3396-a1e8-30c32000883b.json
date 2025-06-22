@@ -17,10 +17,12 @@
       "minecraft:river": "2025-06-21 01:43:11 +0000",
       "minecraft:lukewarm_ocean": "2025-06-21 23:59:40 +0000",
       "minecraft:stony_shore": "2025-06-22 04:14:37 +0000",
+      "minecraft:dripstone_caves": "2025-06-22 19:29:30 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-22 00:06:57 +0000",
       "minecraft:ocean": "2025-06-21 23:44:17 +0000",
       "minecraft:jungle": "2025-06-22 00:03:53 +0000",
       "minecraft:birch_forest": "2025-06-22 00:04:06 +0000",
+      "minecraft:savanna": "2025-06-22 19:36:46 +0000",
       "minecraft:plains": "2025-06-21 01:41:25 +0000",
       "minecraft:jagged_peaks": "2025-06-22 04:22:40 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-21 23:58:51 +0000"
@@ -471,12 +473,17 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-06-22 19:13:39 +0000",
+      "minecraft:pillager": "2025-06-22 19:33:11 +0000",
       "minecraft:skeleton": "2025-06-21 23:38:34 +0000",
-      "minecraft:piglin": "2025-06-22 03:43:27 +0000",
       "minecraft:phantom": "2025-06-22 04:36:42 +0000",
-      "minecraft:enderman": "2025-06-22 03:19:11 +0000",
-      "minecraft:spider": "2025-06-21 23:46:46 +0000",
       "minecraft:wither_skeleton": "2025-06-22 03:39:32 +0000",
+      "minecraft:ghast": "2025-06-22 19:12:29 +0000",
+      "minecraft:hoglin": "2025-06-22 19:20:57 +0000",
+      "minecraft:piglin": "2025-06-22 03:43:27 +0000",
+      "minecraft:enderman": "2025-06-22 03:19:11 +0000",
+      "minecraft:endermite": "2025-06-22 19:17:40 +0000",
+      "minecraft:spider": "2025-06-21 23:46:46 +0000",
       "minecraft:zombie": "2025-06-21 23:34:21 +0000",
       "minecraft:creeper": "2025-06-21 23:35:18 +0000"
     },
@@ -1194,6 +1201,7 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-06-22 00:22:24 +0000",
       "minecraft:nether_wastes": "2025-06-22 00:22:22 +0000",
+      "minecraft:soul_sand_valley": "2025-06-22 19:11:46 +0000",
       "minecraft:warped_forest": "2025-06-22 05:42:14 +0000"
     },
     "done": false
@@ -1480,15 +1488,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/granite_stairs": {
+  "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
-      "has_granite": "2025-06-22 05:48:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_button": {
-    "criteria": {
-      "has_planks": "2025-06-22 05:48:06 +0000"
+      "has_netherite_scrap": "2025-06-22 05:21:09 +0000"
     },
     "done": true
   },
@@ -1498,21 +1500,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-06-22 05:48:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-06-22 05:21:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_beetroot": {
-    "criteria": {
-      "has_beetroot": "2025-06-22 05:33:43 +0000"
     },
     "done": true
   },
@@ -1522,13 +1512,61 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/granite_wall": {
+  "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
-      "has_granite": "2025-06-22 05:48:09 +0000"
+      "has_gold_ingot": "2025-06-22 05:21:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_shovel": {
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-22 05:21:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-22 05:21:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-22 05:21:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-22 05:21:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-22 05:21:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-22 05:21:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-22 05:21:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-22 05:21:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-06-22 05:21:11 +0000"
     },
@@ -1540,21 +1578,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-06-22 05:22:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-06-22 05:24:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-22 05:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-06-22 05:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-06-22 05:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-06-22 05:32:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-06-22 05:32:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-06-22 05:33:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-06-22 05:33:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/golden_apple": {
+  "minecraft:recipes/redstone/birch_button": {
     "criteria": {
-      "has_gold_ingot": "2025-06-22 05:21:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-06-22 05:48:09 +0000"
+      "has_planks": "2025-06-22 05:48:06 +0000"
     },
     "done": true
   },
@@ -1570,57 +1650,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_boots": {
-    "criteria": {
-      "has_gold_ingot": "2025-06-22 05:21:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-06-22 05:48:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_helmet": {
-    "criteria": {
-      "has_gold_ingot": "2025-06-22 05:21:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-06-22 05:24:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite": {
-    "criteria": {
-      "has_granite": "2025-06-22 05:48:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-22 05:48:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_sword": {
-    "criteria": {
-      "has_gold_ingot": "2025-06-22 05:21:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-06-22 05:26:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gold_block": {
-    "criteria": {
-      "has_gold_ingot": "2025-06-22 05:21:11 +0000"
     },
     "done": true
   },
@@ -1630,33 +1662,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-06-22 05:48:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_chestplate": {
-    "criteria": {
-      "has_gold_ingot": "2025-06-22 05:21:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-22 05:48:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
-    "criteria": {
-      "has_rib_armor_trim_smithing_template": "2025-06-22 05:26:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_ingot": {
-    "criteria": {
-      "has_netherite_scrap": "2025-06-22 05:21:09 +0000"
     },
     "done": true
   },
@@ -1666,33 +1674,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_hoe": {
-    "criteria": {
-      "has_gold_ingot": "2025-06-22 05:21:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_wheat": "2025-06-22 05:32:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-06-22 05:48:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-06-22 05:48:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/hay_block": {
+  "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
-      "has_wheat": "2025-06-22 05:32:38 +0000"
+      "has_planks": "2025-06-22 05:48:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-06-22 05:48:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-22 05:48:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-06-22 05:48:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-22 05:48:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-22 05:48:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-06-22 05:48:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-22 05:48:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-22 05:48:09 +0000"
     },
     "done": true
   },
@@ -1708,33 +1746,93 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
-      "has_gold_ingot": "2025-06-22 05:21:11 +0000"
+      "has_gold_nugget": "2025-06-22 19:09:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/skull_banner_pattern": {
+  "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
-      "has_wither_skeleton_skull": "2025-06-22 05:22:07 +0000"
+      "has_gold_nugget": "2025-06-22 19:09:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_stairs": {
+  "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
-      "has_planks": "2025-06-22 05:48:06 +0000"
+      "has_soul_sand": "2025-06-22 19:11:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
+  "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
-      "has_enchanted_golden_apple": "2025-06-22 05:26:34 +0000"
+      "has_soul_sand": "2025-06-22 19:11:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_leggings": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "has_gold_ingot": "2025-06-22 05:21:11 +0000"
+      "shot_arrow": "2025-06-22 19:12:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-06-22 19:13:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-22 19:13:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-22 19:13:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-06-22 19:36:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-06-22 19:42:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-06-22 19:19:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-06-22 19:42:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-06-22 19:19:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-06-22 19:19:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-06-22 19:25:30 +0000"
     },
     "done": true
   },

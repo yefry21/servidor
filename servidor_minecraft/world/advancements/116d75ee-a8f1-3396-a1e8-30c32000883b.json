@@ -385,6 +385,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-06-22 00:42:40 +0000",
       "cooked_mutton": "2025-06-21 23:44:12 +0000",
       "glow_berries": "2025-06-21 23:51:44 +0000",
       "cooked_beef": "2025-06-21 01:45:44 +0000"
@@ -956,6 +957,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-06-22 00:57:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-06-21 23:56:31 +0000"
@@ -1040,6 +1047,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-06-22 00:10:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-06-22 00:42:57 +0000"
     },
     "done": true
   },

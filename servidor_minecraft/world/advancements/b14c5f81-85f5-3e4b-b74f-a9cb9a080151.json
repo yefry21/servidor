@@ -260,16 +260,17 @@
     "criteria": {
       "cooked_porkchop": "2025-06-21 02:22:29 +0000",
       "mutton": "2025-06-21 03:07:45 +0000",
-      "apple": "2025-06-21 02:04:26 +0000",
       "chicken": "2025-06-21 03:13:33 +0000",
-      "spider_eye": "2025-06-21 05:49:02 +0000",
       "bread": "2025-06-21 04:35:19 +0000",
       "cooked_mutton": "2025-06-21 03:11:46 +0000",
-      "cooked_cod": "2025-06-21 02:31:22 +0000",
       "cooked_beef": "2025-06-21 02:25:40 +0000",
       "baked_potato": "2025-06-22 00:01:10 +0000",
       "melon_slice": "2025-06-21 04:26:34 +0000",
-      "cooked_salmon": "2025-06-21 06:32:11 +0000"
+      "apple": "2025-06-21 02:04:26 +0000",
+      "spider_eye": "2025-06-21 05:49:02 +0000",
+      "cooked_cod": "2025-06-21 02:31:22 +0000",
+      "cooked_salmon": "2025-06-21 06:32:11 +0000",
+      "carrot": "2025-06-22 00:52:26 +0000"
     },
     "done": false
   },
@@ -1823,7 +1824,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-06-21 05:05:03 +0000",
       "minecraft:nether_wastes": "2025-06-21 05:04:01 +0000",
-      "minecraft:soul_sand_valley": "2025-06-21 05:10:40 +0000"
+      "minecraft:soul_sand_valley": "2025-06-21 05:10:40 +0000",
+      "minecraft:warped_forest": "2025-06-22 00:51:32 +0000"
     },
     "done": false
   },
@@ -2439,9 +2441,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-22 01:05:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-22 01:05:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-06-22 01:14:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-22 01:05:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-22 01:05:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-22 01:14:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-06-22 00:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-22 01:05:37 +0000"
     },
     "done": true
   },
@@ -2451,15 +2495,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-06-22 01:14:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-22 01:14:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-22 01:05:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-22 01:05:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-22 01:14:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-06-22 01:14:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2025-06-22 00:12:59 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-22 01:05:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2025-06-22 00:28:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-22 01:14:50 +0000"
     },
     "done": true
   },
@@ -2475,9 +2567,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-06-22 01:05:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-06-22 00:28:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-22 01:14:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-22 01:05:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-06-22 01:14:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-22 01:14:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-22 01:05:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-22 01:05:37 +0000"
     },
     "done": true
   },

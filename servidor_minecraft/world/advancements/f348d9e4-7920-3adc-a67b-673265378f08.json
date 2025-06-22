@@ -735,6 +735,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-21 03:14:13 +0000",
+      "minecraft:phantom": "2025-06-22 03:03:38 +0000",
       "minecraft:enderman": "2025-06-22 00:42:56 +0000",
       "minecraft:spider": "2025-06-21 03:37:33 +0000",
       "minecraft:zombie": "2025-06-21 02:25:24 +0000"
@@ -1612,12 +1613,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-06-22 02:38:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-22 02:10:56 +0000"
@@ -1648,15 +1643,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-06-22 02:10:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-06-22 02:38:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-06-22 02:38:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
     "criteria": {
-      "has_gravel": "2025-06-22 02:10:56 +0000"
+      "has_stripped_logs": "2025-06-22 02:58:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-06-22 02:58:09 +0000"
     },
     "done": true
   },

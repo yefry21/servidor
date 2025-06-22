@@ -485,7 +485,8 @@
       "minecraft:endermite": "2025-06-22 19:17:40 +0000",
       "minecraft:spider": "2025-06-21 23:46:46 +0000",
       "minecraft:zombie": "2025-06-21 23:34:21 +0000",
-      "minecraft:creeper": "2025-06-21 23:35:18 +0000"
+      "minecraft:creeper": "2025-06-21 23:35:18 +0000",
+      "minecraft:drowned": "2025-06-22 20:00:20 +0000"
     },
     "done": false
   },
@@ -1794,9 +1795,27 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-06-22 20:13:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-06-22 19:36:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-22 19:53:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-06-22 19:53:30 +0000"
     },
     "done": true
   },
@@ -1812,9 +1831,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-06-22 19:50:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-06-22 20:13:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_chestplate": "2025-06-22 19:42:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-22 19:50:05 +0000"
     },
     "done": true
   },
@@ -1827,6 +1864,18 @@
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-06-22 19:19:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-06-22 19:50:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-22 19:53:30 +0000"
     },
     "done": true
   },

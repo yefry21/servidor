@@ -248,3 +248,21 @@
 [19:40:55] [Server thread/WARN]: handleDisconnection() called twice
 [19:41:26] [Server thread/INFO]: ShonA[/172.23.68.227:62609] logged in with entity id 52569 at (290.69223366972597, -8.975575911786319, -2295.699999988079)
 [19:41:26] [Server thread/INFO]: ShonA joined the game
+[19:44:52] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=172, y=78, z=-250} iz{x=172, y=76, z=-250}
+[19:45:02] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=176, y=84, z=-255} iz{x=176, y=84, z=-258}
+[19:45:02] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=176, y=84, z=-255} iz{x=176, y=84, z=-258}
+[19:45:02] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=176, y=84, z=-255} iz{x=176, y=84, z=-258}
+[19:45:02] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=176, y=84, z=-255} iz{x=176, y=84, z=-258}
+[19:45:49] [Server thread/INFO]: V44nxx fell from a high place
+[19:47:22] [Server thread/INFO]: ShonA has made the advancement [Ice Bucket Challenge]
+[19:50:05] [Server thread/INFO]: Jd_tnx has made the advancement [Ice Bucket Challenge]
+[19:50:45] [Server thread/WARN]: FabianTc moved too quickly! -1.4414264296065085,1.0,-10.19766492596682
+[19:50:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[19:56:11] [Server thread/WARN]: Spruce Boat (vehicle of ShonA) moved wrongly! 0.35819540698548735
+[19:56:11] [Server thread/WARN]: Spruce Boat (vehicle of ShonA) moved wrongly! 0.5702831885846535
+[20:06:11] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2603, y=58, z=-2449} iz{x=2603, y=59, z=-2449}
+[20:12:58] [Server thread/INFO]: yefry[/172.23.39.99:63519] logged in with entity id 88211 at (1213.1308256777702, 72.0, -1448.5343011349644)
+[20:12:58] [Server thread/INFO]: yefry joined the game
+[20:13:15] [Server thread/INFO]: V44nxx has made the advancement [Who is Cutting Onions?]
+[20:13:27] [Server thread/INFO]: Jd_tnx has made the advancement [Who is Cutting Onions?]
+[20:14:00] [Server thread/INFO]: ShonA has made the advancement [Who is Cutting Onions?]

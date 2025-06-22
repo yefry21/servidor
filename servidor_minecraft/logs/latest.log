@@ -312,3 +312,126 @@
 [20:46:37] [Server thread/INFO]: Gave 128 [Emerald] to yefry
 [20:47:37] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
 [20:47:37] [Server thread/INFO]: ...anted_book{StoredEnchantments:[{id:sharpness,lvl:5},{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:fortune,lvl:3},{id:looting,lvl:3},{id:mending,lvl:1},{id:fire_aspect,lvl:2},{id:knockback,lvl:2},{id:sweeping,lvl:3},{id:power,lvl:5},{id:punch,lvl:2},{id:infinity,lvl:1},{id:protection,lvl:4},{id:thorns,lvl:3},{id:respiration,lvl:3},{id:depth_strider,lvl:3},{id:feather_falling,lvl:4},{id:aqua_affinity,lvl:1}]} 1<--[HERE]
+[20:48:16] [Server thread/INFO]: /advancement (grant|revoke)
+[20:48:16] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
+[20:48:16] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
+[20:48:16] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
+[20:48:16] [Server thread/INFO]: /clear [<targets>]
+[20:48:16] [Server thread/INFO]: /clone (<begin>|from)
+[20:48:16] [Server thread/INFO]: /damage <target> <amount> [<damageType>]
+[20:48:16] [Server thread/INFO]: /data (merge|get|remove|modify)
+[20:48:16] [Server thread/INFO]: /datapack (enable|disable|list)
+[20:48:16] [Server thread/INFO]: /debug (start|stop|function)
+[20:48:16] [Server thread/INFO]: /defaultgamemode <gamemode>
+[20:48:16] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
+[20:48:16] [Server thread/INFO]: /effect (clear|give)
+[20:48:16] [Server thread/INFO]: /me <action>
+[20:48:16] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[20:48:16] [Server thread/INFO]: /experience (add|set|query)
+[20:48:16] [Server thread/INFO]: /xp -> experience
+[20:48:16] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[20:48:16] [Server thread/INFO]: /fillbiome <from> <to> <biome> [replace]
+[20:48:16] [Server thread/INFO]: /forceload (add|remove|query)
+[20:48:16] [Server thread/INFO]: /function <name> [<arguments>|with]
+[20:48:16] [Server thread/INFO]: /gamemode <gamemode> [<target>]
+[20:48:16] [Server thread/INFO]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|enderPearlsVanishOnDeath|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxCommandForkCount|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersNetherPortalCreativeDelay|playersNetherPortalDefaultDelay|playersSleepingPercentage|projectilesCanBreakBlocks|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnChunkRadius|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
+[20:48:16] [Server thread/INFO]: /give <targets> <item> [<count>]
+[20:48:16] [Server thread/INFO]: /help [<command>]
+[20:48:16] [Server thread/INFO]: /item (replace|modify)
+[20:48:16] [Server thread/INFO]: /kick <targets> [<reason>]
+[20:48:16] [Server thread/INFO]: /kill [<targets>]
+[20:48:16] [Server thread/INFO]: /list [uuids]
+[20:48:16] [Server thread/INFO]: /locate (structure|biome|poi)
+[20:48:16] [Server thread/INFO]: /loot (replace|insert|give|spawn)
+[20:48:16] [Server thread/INFO]: /msg <targets> <message>
+[20:48:16] [Server thread/INFO]: /tell -> msg
+[20:48:16] [Server thread/INFO]: /w -> msg
+[20:48:16] [Server thread/INFO]: /particle <name> [<pos>]
+[20:48:16] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
+[20:48:16] [Server thread/INFO]: /playsound <sound> [master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[20:48:16] [Server thread/INFO]: /random (value|roll|reset)
+[20:48:16] [Server thread/INFO]: /reload
+[20:48:16] [Server thread/INFO]: /recipe (give|take)
+[20:48:16] [Server thread/INFO]: /return (<value>|fail|run)
+[20:48:16] [Server thread/INFO]: /ride <target> (mount|dismount)
+[20:48:16] [Server thread/INFO]: /say <message>
+[20:48:16] [Server thread/INFO]: /schedule (function|clear)
+[20:48:16] [Server thread/INFO]: /scoreboard (objectives|players)
+[20:48:16] [Server thread/INFO]: /seed
+[20:48:16] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[20:48:16] [Server thread/INFO]: /spawnpoint [<targets>]
+[20:48:16] [Server thread/INFO]: /setworldspawn [<pos>]
+[20:48:16] [Server thread/INFO]: /spectate [<target>]
+[20:48:16] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[20:48:16] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[20:48:16] [Server thread/INFO]: /summon <entity> [<pos>]
+[20:48:16] [Server thread/INFO]: /tag <targets> (add|remove|list)
+[20:48:16] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
+[20:48:16] [Server thread/INFO]: /teammsg <message>
+[20:48:16] [Server thread/INFO]: /tm -> teammsg
+[20:48:16] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
+[20:48:16] [Server thread/INFO]: /tp -> teleport
+[20:48:16] [Server thread/INFO]: /tellraw <targets> <message>
+[20:48:16] [Server thread/INFO]: /tick (query|rate|step|sprint|unfreeze|freeze)
+[20:48:16] [Server thread/INFO]: /time (set|add|query)
+[20:48:16] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[20:48:16] [Server thread/INFO]: /trigger <objective> [add|set]
+[20:48:16] [Server thread/INFO]: /weather (clear|rain|thunder)
+[20:48:16] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
+[20:48:16] [Server thread/INFO]: /jfr (start|stop)
+[20:48:16] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[20:48:16] [Server thread/INFO]: /banlist [ips|players]
+[20:48:16] [Server thread/INFO]: /ban <targets> [<reason>]
+[20:48:16] [Server thread/INFO]: /deop <targets>
+[20:48:16] [Server thread/INFO]: /op <targets>
+[20:48:16] [Server thread/INFO]: /pardon <targets>
+[20:48:16] [Server thread/INFO]: /pardon-ip <target>
+[20:48:16] [Server thread/INFO]: /perf (start|stop)
+[20:48:16] [Server thread/INFO]: /save-all [flush]
+[20:48:16] [Server thread/INFO]: /save-off
+[20:48:16] [Server thread/INFO]: /save-on
+[20:48:16] [Server thread/INFO]: /setidletimeout <minutes>
+[20:48:16] [Server thread/INFO]: /stop
+[20:48:16] [Server thread/INFO]: /transfer <hostname> [<port>]
+[20:48:16] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
+[20:48:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[20:48:51] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[20:48:51] [Server thread/INFO]: ...anted_book{StoredEnchantments:[{id:sharpness,lvl:5},{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:fortune,lvl:3},{id:looting,lvl:3},{id:mending,lvl:1},{id:fire_aspect,lvl:2},{id:knockback,lvl:2},{id:sweeping,lvl:3},{id:power,lvl:5},{id:punch,lvl:2},{id:infinity,lvl:1},{id:protection,lvl:4},{id:thorns,lvl:3},{id:respiration,lvl:3},{id:depth_strider,lvl:3},{id:feather_falling,lvl:4},{id:aqua_affinity,lvl:1}]} <--[HERE]
+[20:49:12] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[20:49:12] [Server thread/INFO]: ...anted_book{StoredEnchantments:[{id:mending,lvl:1}]}<--[HERE]
+[20:50:37] [Server thread/INFO]: Gave 100 experience levels to yefry
+[20:50:37] [Server thread/INFO]: Gave 100 experience levels to yefry
+[20:51:20] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[20:51:20] [Server thread/INFO]: ...mond_sword{display:{Name:'{"text":"Espada Legendaria","color":"aqua","bold":true}'},Enchantments:[{id:sharpness,lvl:5},{id:looting,lvl:3},{id:unbreaking,lvl:3},{id:mending,lvl:1},{id:fire_aspect,lvl:2},{id:knockback,lvl:2},{id:swee_]()_<--[HERE]
+[20:51:24] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[20:51:24] [Server thread/INFO]: ...mond_sword{display:{Name:'{"text":"Espada Legendaria","color":"aqua","bold":true}'},Enchantments:[{id:sharpness,lvl:5},{id:looting,lvl:3},{id:unbreaking,lvl:3},{id:mending,lvl:1},{id:fire_aspect,lvl:2},{id:knockback,lvl:2},{id:swee_]()_<--[HERE]
+[20:51:45] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[20:51:45] [Server thread/INFO]: ...mond_sword{display:{Name:'{"text":"Espada Legendaria","color":"aqua","bold":true}'},Enchantments:[{id:sharpness,lvl:5},{id:looting,lvl:3},{id:unbreaking,lvl:3},{id:mending,lvl:1},{id:fire_aspect,lvl:2},{id:knockback,lvl:2},{id:sweeping,lvl:3}]}<--[HERE]
+[20:51:54] [Server thread/INFO]: Gave 1 [Diamond Sword] to yefry
+[20:52:09] [Server thread/INFO]: Gave 1 [Diamond Sword] to yefry
+[20:52:10] [Server thread/INFO]: Gave 1 [Diamond Sword] to yefry
+[20:52:10] [Server thread/INFO]: Gave 1 [Diamond Sword] to yefry
+[20:52:57] [Server thread/INFO]: Gave 1 [Diamond Sword] to yefry
+[20:52:57] [Server thread/INFO]: Gave 1 [Diamond Sword] to yefry
+[20:52:58] [Server thread/INFO]: Gave 1 [Diamond Sword] to yefry
+[20:52:58] [Server thread/INFO]: Gave 1 [Diamond Sword] to yefry
+[20:54:32] [Server thread/INFO]: [Not Secure] <yefry> ssssssssssssssssswase
+[20:56:38] [Server thread/INFO]: Gave 1 [Red Bed] to yefry
+[20:56:38] [Server thread/INFO]: Gave 1 [Red Bed] to yefry
+[20:56:39] [Server thread/INFO]: Gave 1 [Red Bed] to yefry
+[20:56:49] [Server thread/INFO]: Gave 1 [Red Bed] to yefry
+[20:57:06] [Server thread/INFO]: Gave 1 [Villager Spawn Egg] to yefry
+[20:57:07] [Server thread/INFO]: Gave 1 [Villager Spawn Egg] to yefry
+[20:57:08] [Server thread/INFO]: Gave 1 [Villager Spawn Egg] to yefry
+[20:57:33] [Server thread/INFO]: Gave 1 [Bookshelf] to yefry
+[20:57:33] [Server thread/INFO]: Gave 1 [Bookshelf] to yefry
+[20:57:34] [Server thread/INFO]: Gave 1 [Bookshelf] to yefry
+[20:57:34] [Server thread/INFO]: Gave 1 [Bookshelf] to yefry
+[20:58:27] [Server thread/INFO]: Gave 200 experience points to yefry
+[20:58:27] [Server thread/INFO]: Gave 200 experience points to yefry
+[20:58:28] [Server thread/INFO]: Gave 200 experience points to yefry
+[20:58:32] [Server thread/INFO]: Gave 64 [Diamond] to yefry
+[20:58:33] [Server thread/INFO]: Gave 64 [Diamond] to yefry
+[20:58:33] [Server thread/INFO]: Gave 64 [Diamond] to yefry
+[20:58:34] [Server thread/INFO]: Gave 64 [Diamond] to yefry
+[20:58:44] [Server thread/INFO]: Gave 200 experience levels to yefry

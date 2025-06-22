@@ -554,6 +554,8 @@
     "criteria": {
       "minecraft:pillager": "2025-06-21 02:44:45 +0000",
       "minecraft:skeleton": "2025-06-21 01:49:28 +0000",
+      "minecraft:zombified_piglin": "2025-06-22 02:20:02 +0000",
+      "minecraft:ghast": "2025-06-21 05:29:44 +0000",
       "minecraft:piglin": "2025-06-21 07:25:07 +0000",
       "minecraft:vindicator": "2025-06-21 02:57:12 +0000",
       "minecraft:enderman": "2025-06-21 01:49:20 +0000",
@@ -562,7 +564,6 @@
       "minecraft:zombie": "2025-06-21 01:52:58 +0000",
       "minecraft:creeper": "2025-06-21 02:58:15 +0000",
       "minecraft:zombie_villager": "2025-06-21 04:06:51 +0000",
-      "minecraft:ghast": "2025-06-21 05:29:44 +0000",
       "minecraft:evoker": "2025-06-21 02:59:01 +0000"
     },
     "done": false

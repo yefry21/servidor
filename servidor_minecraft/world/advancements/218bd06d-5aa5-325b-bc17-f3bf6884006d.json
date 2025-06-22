@@ -2449,5 +2449,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-06-22 03:34:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-06-22 03:34:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-06-22 03:34:32 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3837
 }

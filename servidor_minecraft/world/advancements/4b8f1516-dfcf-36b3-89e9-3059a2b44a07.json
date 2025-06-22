@@ -1456,6 +1456,7 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-06-22 00:19:32 +0000",
       "minecraft:nether_wastes": "2025-06-22 00:19:29 +0000",
+      "minecraft:soul_sand_valley": "2025-06-22 03:30:50 +0000",
       "minecraft:basalt_deltas": "2025-06-22 03:17:21 +0000"
     },
     "done": false
@@ -1919,6 +1920,12 @@
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-06-22 03:22:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-06-22 03:31:20 +0000"
     },
     "done": true
   },

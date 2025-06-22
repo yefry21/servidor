@@ -158,3 +158,11 @@
 [03:25:58] [Server thread/INFO]: ShonA left the game
 [03:26:28] [Server thread/INFO]: ShonA[/172.23.68.227:50278] logged in with entity id 199290 at (-361.50952767171464, 19.0, 308.61130964676227)
 [03:26:28] [Server thread/INFO]: ShonA joined the game
+[03:36:46] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=40, y=76, z=-840} iz{x=69, y=83, z=-845}
+[03:36:46] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=40, y=76, z=-840} iz{x=69, y=83, z=-845}
+[03:36:46] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=40, y=76, z=-840} iz{x=69, y=83, z=-845}
+[03:36:46] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=40, y=76, z=-840} iz{x=69, y=83, z=-845}
+[03:36:46] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=40, y=76, z=-840} iz{x=69, y=83, z=-845}
+[03:36:46] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=40, y=76, z=-840} iz{x=69, y=83, z=-845}
+[03:36:46] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=40, y=76, z=-840} iz{x=69, y=83, z=-845}
+[03:36:46] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=40, y=76, z=-840} iz{x=69, y=83, z=-845}

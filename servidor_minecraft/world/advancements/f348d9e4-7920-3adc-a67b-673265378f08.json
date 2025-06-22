@@ -567,6 +567,7 @@
       "cooked_chicken": "2025-06-21 02:22:20 +0000",
       "cooked_mutton": "2025-06-21 02:34:51 +0000",
       "cooked_beef": "2025-06-21 02:24:20 +0000",
+      "cod": "2025-06-22 20:14:35 +0000",
       "beef": "2025-06-21 02:30:54 +0000",
       "carrot": "2025-06-22 05:24:07 +0000"
     },
@@ -2272,6 +2273,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-06-22 20:14:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
       "has_brown_wool": "2025-06-22 19:56:46 +0000"
@@ -2308,9 +2315,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-06-22 20:14:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_pickaxe": "2025-06-22 19:57:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-06-22 20:14:00 +0000"
     },
     "done": true
   },
@@ -2362,9 +2381,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-06-22 20:14:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-06-22 19:59:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-06-22 20:14:31 +0000"
     },
     "done": true
   },

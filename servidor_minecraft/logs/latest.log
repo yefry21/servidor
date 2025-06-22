@@ -266,3 +266,49 @@
 [20:13:15] [Server thread/INFO]: V44nxx has made the advancement [Who is Cutting Onions?]
 [20:13:27] [Server thread/INFO]: Jd_tnx has made the advancement [Who is Cutting Onions?]
 [20:14:00] [Server thread/INFO]: ShonA has made the advancement [Who is Cutting Onions?]
+[20:15:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2935ms or 58 ticks behind
+[20:17:53] [Server thread/INFO]: Incorrect argument for command
+[20:17:53] [Server thread/INFO]: tp yefry /tp yefry FabianTc<--[HERE]
+[20:18:31] [Server thread/INFO]: Teleported yefry to FabianTc
+[20:19:35] [Server thread/INFO]: ShonA tried to swim in lava
+[20:20:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4978ms or 99 ticks behind
+[20:20:31] [Server thread/WARN]: Jd_tnx moved too quickly! 0.17593364817608403,0.25799910351528865,-10.09946233380117
+[20:20:31] [Server thread/WARN]: yefry moved too quickly! 3.301287040112584,0.001335979112141672,9.730780848520226
+[20:20:31] [Server thread/WARN]: V44nxx moved too quickly! -0.1121299500694306,-1.024424088213685,-10.016833984376603
+[20:21:37] [Server thread/INFO]: ShonA lost connection: Disconnected
+[20:21:37] [Server thread/INFO]: ShonA left the game
+[20:23:19] [Server thread/INFO]: V44nxx has made the advancement [Oh Shiny]
+[20:24:22] [Server thread/INFO]: V44nxx fell from a high place
+[20:24:46] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[20:24:46] [Server thread/INFO]: ...anted_book{StoredEnchantments:[{id:"minecraft:efficiency",lvl:5}]} 1<--[HERE]
+[20:25:17] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[20:25:17] [Server thread/INFO]: ...anted_book{StoredEnchantments:[{id:efficiency,lvl:5}]} 1<--[HERE]
+[20:25:43] [Server thread/INFO]: Gave 64 [Torch] to yefry
+[20:26:10] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=59, y=72, z=84} iz{x=58, y=70, z=83}
+[20:27:27] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[20:27:27] [Server thread/INFO]: ...nd_pickaxe{Enchantments:[{id:"minecraft:efficiency",lvl:5},{id:"minecraft:unbreaking",lvl:3},{id:"minecraft:mending",lvl:1}]}<--[HERE]
+[20:30:13] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[20:30:13] [Server thread/INFO]: ...anted_book{StoredEnchantments:[{id:"efficiency",lvl:5}]}<--[HERE]
+[20:30:42] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:30:42] [Server thread/INFO]: c/item replace entity Yefry weapon.mainhand with item minecraft:enchanted_book{StoredEnchantments:[{id:efficiency,lvl:5}]}<--[HERE]
+[20:31:17] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[20:31:17] [Server thread/INFO]: ...anted_book{StoredEnchantments:[{id:"efficiency",lvl:5}]} 1<--[HERE]
+[20:32:02] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[20:32:02] [Server thread/INFO]: ...anted_book{StoredEnchantments:[{id:efficiency,lvl:5}]} 1<--[HERE]
+[20:33:00] [Server thread/INFO]: Gave 1 [Enchanting Table] to yefry
+[20:33:09] [Server thread/INFO]: Gave 15 [Bookshelf] to yefry
+[20:33:21] [Server thread/INFO]: Gave 50 experience levels to yefry
+[20:37:42] [Server thread/INFO]: Gave 15 [Bookshelf] to yefry
+[20:37:43] [Server thread/INFO]: Gave 15 [Bookshelf] to yefry
+[20:39:58] [Server thread/INFO]: Gave 64 [Diamond] to yefry
+[20:41:54] [Server thread/INFO]: Gave 64 [Lapis Lazuli] to yefry
+[20:43:10] [Server thread/INFO]: Gave 1 [Grindstone] to yefry
+[20:43:21] [Server thread/INFO]: Gave 1500 experience points to yefry
+[20:44:00] [Server thread/INFO]: Gave 1 [Anvil] to yefry
+[20:45:25] [Server thread/INFO]: Gave 1 [Flint and Steel] to yefry
+[20:45:44] [Server thread/INFO]: Gave 128 [Emerald] to yefry
+[20:46:36] [Server thread/INFO]: Gave 128 [Emerald] to yefry
+[20:46:36] [Server thread/INFO]: Gave 128 [Emerald] to yefry
+[20:46:37] [Server thread/INFO]: Gave 128 [Emerald] to yefry
+[20:47:37] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[20:47:37] [Server thread/INFO]: ...anted_book{StoredEnchantments:[{id:sharpness,lvl:5},{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:fortune,lvl:3},{id:looting,lvl:3},{id:mending,lvl:1},{id:fire_aspect,lvl:2},{id:knockback,lvl:2},{id:sweeping,lvl:3},{id:power,lvl:5},{id:punch,lvl:2},{id:infinity,lvl:1},{id:protection,lvl:4},{id:thorns,lvl:3},{id:respiration,lvl:3},{id:depth_strider,lvl:3},{id:feather_falling,lvl:4},{id:aqua_affinity,lvl:1}]} 1<--[HERE]

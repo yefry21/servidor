@@ -505,3 +505,16 @@
 [21:40:30] [Server thread/INFO]: Gave 64 [Emerald] to yefry
 [21:40:30] [Server thread/INFO]: Gave 64 [Emerald] to yefry
 [21:40:30] [Server thread/INFO]: Gave 64 [Emerald] to yefry
+[21:44:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3353ms or 67 ticks behind
+[21:44:20] [Server thread/WARN]: V44nxx moved too quickly! 10.016753858419634,-1.0,-1.4320849280175025
+[21:47:02] [Server thread/INFO]: Gave 64 [Emerald] to yefry
+[21:47:03] [Server thread/INFO]: Gave 64 [Emerald] to yefry
+[21:47:03] [Server thread/INFO]: Gave 64 [Emerald] to yefry
+[21:47:03] [Server thread/INFO]: Gave 64 [Emerald] to yefry
+[21:50:29] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=19, y=69, z=-47} iz{x=19, y=67, z=-47}
+[21:50:29] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=19, y=69, z=-47} iz{x=19, y=67, z=-47}
+[21:50:29] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=19, y=69, z=-47} iz{x=19, y=67, z=-47}
+[21:50:29] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=18, y=68, z=-48} iz{x=19, y=67, z=-47}
+[21:50:29] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=18, y=68, z=-48} iz{x=19, y=67, z=-47}
+[21:55:51] [Server thread/WARN]: Oak Boat (vehicle of ShonA) moved too quickly! 9.072795865947228,0.0,-4.932735163245411
+[21:58:19] [Server thread/INFO]: Gave 64 [Obsidian] to yefry

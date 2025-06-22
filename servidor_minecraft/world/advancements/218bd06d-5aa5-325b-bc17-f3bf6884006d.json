@@ -473,6 +473,7 @@
       "golden_apple": "2025-06-21 03:04:51 +0000",
       "bread": "2025-06-21 02:20:45 +0000",
       "rotten_flesh": "2025-06-21 02:35:29 +0000",
+      "suspicious_stew": "2025-06-22 21:41:04 +0000",
       "cooked_mutton": "2025-06-22 01:40:07 +0000",
       "sweet_berries": "2025-06-22 01:34:04 +0000",
       "cooked_beef": "2025-06-21 02:41:29 +0000",
@@ -2906,6 +2907,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-06-22 21:44:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2025-06-22 18:50:40 +0000"
@@ -2933,6 +2940,12 @@
   "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
     "criteria": {
       "has_coast_armor_trim_smithing_template": "2025-06-22 18:56:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-06-22 21:44:32 +0000"
     },
     "done": true
   },

@@ -304,3 +304,25 @@
 [05:34:18] [Server thread/INFO]: FabianTc left the game
 [05:34:30] [Server thread/INFO]: FabianTc[/172.23.250.146:62275] logged in with entity id 282592 at (88.61558710764061, 77.0, -9.877476961674613)
 [05:34:30] [Server thread/INFO]: FabianTc joined the game
+[05:44:13] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-149, y=81, z=-45} iz{x=-151, y=80, z=-44}
+[05:44:13] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-149, y=81, z=-45} iz{x=-151, y=80, z=-44}
+[05:44:13] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-149, y=81, z=-45} iz{x=-151, y=80, z=-44}
+[05:44:13] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-149, y=81, z=-45} iz{x=-151, y=80, z=-44}
+[05:44:13] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-149, y=81, z=-45} iz{x=-151, y=80, z=-44}
+[05:44:13] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-149, y=81, z=-45} iz{x=-151, y=80, z=-44}
+[05:45:52] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-233, y=78, z=129} iz{x=-232, y=79, z=129}
+[05:47:33] [Server thread/INFO]: ShonA was slain by Piglin
+[05:50:57] [Server thread/INFO]: Jd_tnx lost connection: Disconnected
+[05:50:57] [Server thread/INFO]: Jd_tnx left the game
+[05:51:05] [Server thread/INFO]: ShonA lost connection: Disconnected
+[05:51:05] [Server thread/INFO]: ShonA left the game
+[05:51:23] [Server thread/INFO]: FabianTc lost connection: Disconnected
+[05:51:23] [Server thread/INFO]: FabianTc left the game
+[05:51:25] [Server thread/INFO]: yefry lost connection: Disconnected
+[05:51:25] [Server thread/INFO]: yefry left the game
+[05:51:59] [Server thread/INFO]: yefry[/172.23.39.99:50810] logged in with entity id 289724 at (23.27687960233823, 71.0, 59.288633330583686)
+[05:51:59] [Server thread/INFO]: yefry joined the game
+[05:52:08] [Server thread/INFO]: ShonA[/172.23.68.227:58536] logged in with entity id 289928 at (-3144.3813917507273, 67.0, 2552.171346022795)
+[05:52:08] [Server thread/INFO]: ShonA joined the game
+[05:52:08] [Server thread/INFO]: FabianTc[/172.23.250.146:63978] logged in with entity id 289929 at (3.97429407540069, 63.0, 49.56135433877397)
+[05:52:08] [Server thread/INFO]: FabianTc joined the game

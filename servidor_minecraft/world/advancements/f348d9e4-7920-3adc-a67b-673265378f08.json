@@ -8,28 +8,30 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2025-06-22 21:52:49 +0000",
-      "minecraft:flower_forest": "2025-06-22 02:10:05 +0000",
-      "minecraft:beach": "2025-06-21 02:32:45 +0000",
       "minecraft:old_growth_pine_taiga": "2025-06-22 04:23:12 +0000",
-      "minecraft:dark_forest": "2025-06-21 02:43:29 +0000",
+      "minecraft:mushroom_fields": "2025-06-22 22:22:12 +0000",
       "minecraft:forest": "2025-06-21 02:17:07 +0000",
       "minecraft:taiga": "2025-06-22 04:22:07 +0000",
-      "minecraft:sparse_jungle": "2025-06-21 02:51:01 +0000",
       "minecraft:deep_ocean": "2025-06-21 02:44:14 +0000",
+      "minecraft:lush_caves": "2025-06-22 23:39:11 +0000",
+      "minecraft:ocean": "2025-06-21 02:43:56 +0000",
+      "minecraft:jungle": "2025-06-21 02:49:26 +0000",
+      "minecraft:sunflower_plains": "2025-06-21 02:31:56 +0000",
+      "minecraft:bamboo_jungle": "2025-06-22 04:12:05 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-06-21 02:45:36 +0000",
+      "minecraft:flower_forest": "2025-06-22 02:10:05 +0000",
+      "minecraft:beach": "2025-06-21 02:32:45 +0000",
+      "minecraft:dark_forest": "2025-06-21 02:43:29 +0000",
+      "minecraft:sparse_jungle": "2025-06-21 02:51:01 +0000",
       "minecraft:river": "2025-06-21 02:20:09 +0000",
       "minecraft:lukewarm_ocean": "2025-06-21 02:44:49 +0000",
       "minecraft:stony_shore": "2025-06-22 04:29:45 +0000",
       "minecraft:dripstone_caves": "2025-06-21 03:12:52 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-21 02:42:09 +0000",
-      "minecraft:ocean": "2025-06-21 02:43:56 +0000",
-      "minecraft:jungle": "2025-06-21 02:49:26 +0000",
-      "minecraft:sunflower_plains": "2025-06-21 02:31:56 +0000",
       "minecraft:grove": "2025-06-22 04:28:30 +0000",
       "minecraft:meadow": "2025-06-22 04:10:06 +0000",
       "minecraft:savanna": "2025-06-22 04:15:55 +0000",
-      "minecraft:bamboo_jungle": "2025-06-22 04:12:05 +0000",
-      "minecraft:plains": "2025-06-21 02:12:16 +0000",
-      "minecraft:deep_lukewarm_ocean": "2025-06-21 02:45:36 +0000"
+      "minecraft:plains": "2025-06-21 02:12:16 +0000"
     },
     "done": false
   },
@@ -565,8 +567,10 @@
     "criteria": {
       "cooked_porkchop": "2025-06-21 03:04:36 +0000",
       "bread": "2025-06-21 03:08:42 +0000",
+      "golden_apple": "2025-06-22 23:45:57 +0000",
       "cooked_chicken": "2025-06-21 02:22:20 +0000",
       "cooked_mutton": "2025-06-21 02:34:51 +0000",
+      "mushroom_stew": "2025-06-22 23:12:12 +0000",
       "cooked_beef": "2025-06-21 02:24:20 +0000",
       "cod": "2025-06-22 20:14:35 +0000",
       "beef": "2025-06-21 02:30:54 +0000",
@@ -1478,9 +1482,10 @@
       "minecraft:crimson_forest": "2025-06-22 00:19:47 +0000",
       "minecraft:nether_wastes": "2025-06-22 00:19:44 +0000",
       "minecraft:soul_sand_valley": "2025-06-22 19:11:53 +0000",
-      "minecraft:warped_forest": "2025-06-22 05:42:20 +0000"
+      "minecraft:warped_forest": "2025-06-22 05:42:20 +0000",
+      "minecraft:basalt_deltas": "2025-06-22 22:46:53 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:nether/find_fortress": {
     "criteria": {
@@ -2421,6 +2426,78 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-06-22 20:14:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-06-22 23:20:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-06-22 22:46:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-06-22 23:20:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-06-22 22:21:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-06-22 23:20:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-06-22 22:10:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-06-22 22:31:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-06-22 23:39:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-06-22 22:46:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-06-22 23:39:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-06-22 22:31:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-06-22 22:46:47 +0000"
     },
     "done": true
   },

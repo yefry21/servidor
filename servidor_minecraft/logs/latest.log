@@ -435,3 +435,15 @@
 [20:58:33] [Server thread/INFO]: Gave 64 [Diamond] to yefry
 [20:58:34] [Server thread/INFO]: Gave 64 [Diamond] to yefry
 [20:58:44] [Server thread/INFO]: Gave 200 experience levels to yefry
+[21:01:06] [Server thread/INFO]: Gave 64 [Lapis Lazuli] to yefry
+[21:01:10] [Server thread/INFO]: Gave 200 experience levels to yefry
+[21:06:10] [Server thread/INFO]: Gave 1 [Lectern] to yefry
+[21:06:16] [Server thread/INFO]: Gave 1 [Lectern] to yefry
+[21:06:16] [Server thread/INFO]: Gave 1 [Lectern] to yefry
+[21:06:16] [Server thread/INFO]: Gave 1 [Lectern] to yefry
+[21:07:01] [Server thread/INFO]: Gave 1 [Book] to yefry
+[21:07:38] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-104, y=98, z=-195} iz{x=-104, y=99, z=-195}
+[21:07:38] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-104, y=98, z=-195} iz{x=-104, y=99, z=-195}
+[21:07:38] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-104, y=98, z=-195} iz{x=-104, y=99, z=-195}
+[21:07:42] [Server thread/INFO]: Gave 1 [Book] to yefry
+[21:09:14] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-192, y=56, z=-122} iz{x=-192, y=55, z=-123}

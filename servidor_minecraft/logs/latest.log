@@ -134,3 +134,31 @@
 [07:24:04] [Server thread/INFO]: Teleported FabianTc to yefry
 [07:24:18] [Server thread/INFO]: [Not Secure] <FabianTc> ahora si
 [07:24:24] [Server thread/INFO]: [Not Secure] <FabianTc> q empiece lo bueno
+[07:24:42] [Server thread/INFO]: Villager cml['Farmer'/9480, l='ServerLevel[world]', x=-3140.30, y=64.36, z=2560.71] died, message: 'Farmer was slain by yefry'
+[07:24:47] [Server thread/INFO]: Villager cml['Nitwit'/9485, l='ServerLevel[world]', x=-3140.17, y=64.56, z=2556.44] died, message: 'Nitwit was slain by yefry'
+[07:25:04] [Server thread/INFO]: Villager cml['Leatherworker'/9482, l='ServerLevel[world]', x=-3141.07, y=64.56, z=2556.41] died, message: 'Leatherworker went up in flames'
+[07:25:08] [Server thread/INFO]: Villager cml['Librarian'/9481, l='ServerLevel[world]', x=-3139.57, y=64.00, z=2562.50] died, message: 'Librarian burned to death'
+[07:25:25] [Server thread/INFO]: Villager cml['Villager'/9527, l='ServerLevel[world]', x=-3144.96, y=64.00, z=2563.83] died, message: 'Villager was slain by yefry'
+[07:25:25] [Server thread/INFO]: Villager cml['Fletcher'/9484, l='ServerLevel[world]', x=-3144.36, y=65.00, z=2564.90] died, message: 'Fletcher was slain by yefry'
+[07:25:27] [Server thread/INFO]: Villager cml['Villager'/9483, l='ServerLevel[world]', x=-3145.30, y=64.25, z=2565.70] died, message: 'Villager was burned to a crisp while fighting yefry'
+[07:25:29] [Server thread/INFO]: Villager cml['Villager'/9477, l='ServerLevel[world]', x=-3146.09, y=64.02, z=2565.70] died, message: 'Villager was slain by yefry'
+[07:25:29] [Server thread/INFO]: Villager cml['Fletcher'/9486, l='ServerLevel[world]', x=-3150.29, y=65.88, z=2562.83] died, message: 'Fletcher went up in flames'
+[07:25:32] [Server thread/INFO]: Villager cml['Villager'/9528, l='ServerLevel[world]', x=-3142.44, y=64.23, z=2563.99] died, message: 'Villager was slain by yefry'
+[07:25:35] [Server thread/INFO]: Villager cml['Librarian'/9478, l='ServerLevel[world]', x=-3141.42, y=64.00, z=2561.60] died, message: 'Librarian was slain by yefry'
+[07:25:41] [Server thread/INFO]: Villager cml['Fletcher'/9479, l='ServerLevel[world]', x=-3123.49, y=66.00, z=2571.47] died, message: 'Fletcher was slain by yefry'
+[07:26:26] [Server thread/INFO]: [Not Secure] <yefry> que arda trolla
+[07:26:29] [Server thread/INFO]: Villager cml['Fletcher'/9529, l='ServerLevel[world]', x=-3141.73, y=64.00, z=2564.64] died, message: 'Fletcher was slain by yefry'
+[07:26:33] [Server thread/INFO]: Villager cml['Farmer'/9530, l='ServerLevel[world]', x=-3147.01, y=64.56, z=2564.02] died, message: 'Farmer was slain by yefry'
+[07:27:27] [Server thread/INFO]: Villager cml['Librarian'/9513, l='ServerLevel[world]', x=-3136.42, y=64.00, z=2543.48] died, message: 'Librarian went up in flames'
+[07:28:03] [Server thread/INFO]: Villager cml['Librarian'/9512, l='ServerLevel[world]', x=-3139.50, y=64.00, z=2546.29] died, message: 'Librarian went up in flames'
+[07:28:18] [Server thread/INFO]: [Not Secure] <FabianTc> usted encontro todo lo que teniamos??
+[07:28:20] [Server thread/INFO]: Villager cml['Librarian'/9570, l='ServerLevel[world]', x=-3114.70, y=64.39, z=2597.18] died, message: 'Librarian was slain by yefry'
+[07:28:23] [Server thread/INFO]: [Not Secure] <yefry> no
+[07:28:31] [Server thread/INFO]: Villager cml['Librarian'/9532, l='ServerLevel[world]', x=-3132.50, y=64.00, z=2587.37] died, message: 'Librarian was slain by yefry'
+[07:29:18] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-3171, y=64, z=2538} iz{x=-3170, y=62, z=2537}
+[07:29:18] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-3171, y=64, z=2538} iz{x=-3170, y=62, z=2537}
+[07:30:25] [Server thread/INFO]: Villager cml['Librarian'/9534, l='ServerLevel[world]', x=-3150.50, y=65.05, z=2574.09] died, message: 'Librarian was slain by yefry'
+[07:30:30] [Server thread/INFO]: Villager cml['Librarian'/9526, l='ServerLevel[world]', x=-3159.59, y=65.00, z=2558.48] died, message: 'Librarian was slain by yefry'
+[07:30:53] [Server thread/INFO]: [Not Secure] <FabianTc> quien sabe donde estaran las cosas
+[07:32:38] [Server thread/INFO]: [Not Secure] <FabianTc> el trabajo esta hecho
+[07:34:45] [Server thread/INFO]: Villager cml['Weaponsmith'/9533, l='ServerLevel[world]', x=-3117.50, y=64.00, z=2593.70] died, message: 'Weaponsmith was slain by yefry'

@@ -17,6 +17,7 @@
       "minecraft:cherry_grove": "2025-06-22 00:06:37 +0000",
       "minecraft:sunflower_plains": "2025-06-22 00:03:48 +0000",
       "minecraft:birch_forest": "2025-06-21 02:53:56 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-06-22 01:32:03 +0000",
       "minecraft:bamboo_jungle": "2025-06-22 00:17:41 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-22 00:38:41 +0000",
       "minecraft:flower_forest": "2025-06-22 00:03:20 +0000",
@@ -464,6 +465,8 @@
       "golden_apple": "2025-06-21 03:04:51 +0000",
       "bread": "2025-06-21 02:20:45 +0000",
       "rotten_flesh": "2025-06-21 02:35:29 +0000",
+      "cooked_mutton": "2025-06-22 01:40:07 +0000",
+      "sweet_berries": "2025-06-22 01:34:04 +0000",
       "cooked_beef": "2025-06-21 02:41:29 +0000",
       "beef": "2025-06-21 01:42:48 +0000",
       "porkchop": "2025-06-21 01:46:16 +0000",
@@ -2412,6 +2415,24 @@
   "minecraft:recipes/building_blocks/prismarine_brick_slab": {
     "criteria": {
       "has_prismarine_bricks": "2025-06-22 00:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-06-22 02:11:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-06-22 02:14:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-06-22 02:12:50 +0000"
     },
     "done": true
   },

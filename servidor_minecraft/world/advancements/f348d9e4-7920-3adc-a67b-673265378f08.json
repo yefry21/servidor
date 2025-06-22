@@ -744,6 +744,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-06-21 03:14:13 +0000",
       "minecraft:phantom": "2025-06-22 03:03:38 +0000",
+      "minecraft:zombified_piglin": "2025-06-22 06:03:25 +0000",
       "minecraft:enderman": "2025-06-22 00:42:56 +0000",
       "minecraft:spider": "2025-06-21 03:37:33 +0000",
       "minecraft:zombie": "2025-06-21 02:25:24 +0000"
@@ -2018,12 +2019,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-06-22 05:23:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-06-22 05:21:33 +0000"
@@ -2033,6 +2028,24 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-06-22 05:21:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-06-22 05:23:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-06-22 06:14:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-06-22 06:14:14 +0000"
     },
     "done": true
   },

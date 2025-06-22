@@ -326,3 +326,24 @@
 [05:52:08] [Server thread/INFO]: ShonA joined the game
 [05:52:08] [Server thread/INFO]: FabianTc[/172.23.250.146:63978] logged in with entity id 289929 at (3.97429407540069, 63.0, 49.56135433877397)
 [05:52:08] [Server thread/INFO]: FabianTc joined the game
+[05:55:09] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-399, y=57, z=320} iz{x=-398, y=57, z=320}
+[05:59:57] [Server thread/WARN]: Oak Boat (vehicle of yefry) moved wrongly! 0.7950660801658609
+[05:59:57] [Server thread/WARN]: Oak Boat (vehicle of yefry) moved wrongly! 0.8377555026345639
+[06:01:43] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-400, y=54, z=330} iz{x=-400, y=53, z=329}
+[06:09:23] [Server thread/INFO]: V44nxx has made the advancement [Spooky Scary Skeleton]
+[06:14:14] [Server thread/INFO]: ShonA has made the advancement [Spooky Scary Skeleton]
+[06:17:25] [Server thread/INFO]: FabianTc lost connection: Timed out
+[06:17:25] [Server thread/INFO]: FabianTc left the game
+[06:17:25] [Server thread/WARN]: handleDisconnection() called twice
+[06:17:36] [Server thread/INFO]: FabianTc[/172.23.250.146:50303] logged in with entity id 311901 at (1260.0502367410877, 75.0, -1291.987448961096)
+[06:17:36] [Server thread/INFO]: FabianTc joined the game
+[06:18:29] [Server thread/INFO]: V44nxx has made the advancement [Hidden in the Depths]
+[06:20:17] [Server thread/INFO]: FabianTc lost connection: Timed out
+[06:20:17] [Server thread/INFO]: FabianTc left the game
+[06:20:24] [Server thread/INFO]: FabianTc[/172.23.250.146:50588] logged in with entity id 313635 at (1266.699999988079, 78.0, -1429.3891166732744)
+[06:20:24] [Server thread/INFO]: FabianTc joined the game
+[06:20:34] [Server thread/INFO]: ShonA has made the advancement [Into Fire]
+[06:22:33] [Server thread/INFO]: FabianTc lost connection: Disconnected
+[06:22:33] [Server thread/INFO]: FabianTc left the game
+[06:22:57] [Server thread/INFO]: FabianTc[/172.23.250.146:50839] logged in with entity id 314460 at (1176.939763205106, 70.0, -1487.824023922557)
+[06:22:57] [Server thread/INFO]: FabianTc joined the game

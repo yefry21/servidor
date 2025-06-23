@@ -100,3 +100,45 @@
 [00:48:45] [Server thread/INFO]: <--[HERE]
 [00:54:44] [Server thread/INFO]: Jd_tnx lost connection: Disconnected
 [00:54:44] [Server thread/INFO]: Jd_tnx left the game
+[01:04:31] [Server thread/INFO]: Jd_tnx[/172.23.112.251:55655] logged in with entity id 302074 at (-880.5417254365806, 67.0, -4714.474727443195)
+[01:04:31] [Server thread/INFO]: Jd_tnx joined the game
+[01:04:33] [Server thread/INFO]: Jd_tnx fell from a high place
+[01:04:34] [Server thread/INFO]: Jd_tnx lost connection: Disconnected
+[01:04:34] [Server thread/INFO]: Jd_tnx left the game
+[01:04:45] [Server thread/INFO]: Jd_tnx[/172.23.112.251:55667] logged in with entity id 302135 at (-880.5417254365806, 28.0, -4714.474727443195)
+[01:04:45] [Server thread/INFO]: Jd_tnx joined the game
+[01:10:44] [Server thread/INFO]: Jd_tnx was killed by [espadom2.0] while trying to hurt yefry
+[01:11:49] [Server thread/INFO]: Jd_tnx was shot by FabianTc
+[01:13:57] [Server thread/INFO]: Jd_tnx was slain by FabianTc using [la fabian]
+[01:15:22] [Server thread/INFO]: Jd_tnx was slain by yefry
+[01:15:57] [Server thread/INFO]: FabianTc lost connection: Disconnected
+[01:15:57] [Server thread/INFO]: FabianTc left the game
+[01:16:11] [Server thread/INFO]: Jd_tnx was burned to a crisp while fighting yefry
+[01:16:30] [Server thread/INFO]: FabianTc[/172.23.250.146:65422] logged in with entity id 307546 at (-875.3214874757787, 72.0, -4459.437515563362)
+[01:16:30] [Server thread/INFO]: FabianTc joined the game
+[01:16:41] [Server thread/INFO]: FabianTc was slain by Jd_tnx
+[01:16:55] [Server thread/INFO]: Jd_tnx was slain by yefry using [espadom2.0]
+[01:17:24] [Server thread/INFO]: yefry has made the advancement [Hot Stuff]
+[01:17:55] [Server thread/INFO]: Teleported FabianTc to yefry
+[01:18:07] [Server thread/INFO]: FabianTc was slain by Jd_tnx
+[01:18:10] [Server thread/INFO]: Jd_tnx was burned to a crisp while fighting yefry
+[01:18:52] [Server thread/INFO]: Jd_tnx was killed by [espadom2.0] while trying to hurt yefry
+[01:19:37] [Server thread/INFO]: Jd_tnx was burned to a crisp while fighting yefry
+[01:19:40] [Server thread/INFO]: Teleported FabianTc to yefry
+[01:19:40] [Server thread/INFO]: Jd_tnx lost connection: Disconnected
+[01:19:40] [Server thread/INFO]: Jd_tnx left the game
+[01:23:26] [Server thread/INFO]: FabianTc lost connection: Disconnected
+[01:23:26] [Server thread/INFO]: FabianTc left the game
+[01:24:10] [Server thread/INFO]: Villager cml['Villager'/304519, l='ServerLevel[world]', x=-915.82, y=52.56, z=-4403.81] died, message: 'Villager suffocated in a wall'
+[01:26:33] [Server thread/INFO]: Villager cml['Villager'/310806, l='ServerLevel[world]', x=-925.15, y=35.00, z=-4395.15] died, message: 'Villager hit the ground too hard'
+[01:26:33] [Server thread/INFO]: Incorrect argument for command
+[01:26:33] [Server thread/INFO]: tp Yefry  11788  33  -16252<--[HERE]
+[01:26:34] [Server thread/INFO]: Villager cml['Villager'/304503, l='ServerLevel[world]', x=-925.46, y=35.00, z=-4395.50] died, message: 'Villager hit the ground too hard'
+[01:27:12] [Server thread/INFO]: Incorrect argument for command
+[01:27:12] [Server thread/INFO]: tp Yefry 11788  50.0 -16252<--[HERE]
+[01:27:20] [Server thread/INFO]: Incorrect argument for command
+[01:27:20] [Server thread/INFO]: tp Yefry 11788  50.0 -16252<--[HERE]
+[01:27:33] [Server thread/INFO]: Teleported yefry to 11788.500000, 50.000000, -16251.500000
+[01:27:57] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:27:57] [Server thread/INFO]: ~/tp Yefry 11788 100.0 -16252<--[HERE]
+[01:28:14] [Server thread/INFO]: Teleported yefry to 11788.500000, 100.000000, -16251.500000

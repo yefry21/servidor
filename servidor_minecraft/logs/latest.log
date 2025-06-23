@@ -73,3 +73,30 @@
 [00:35:36] [Server thread/INFO]: Teleported yefry to -447.500000, 80.000000, -959.500000
 [00:35:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4331ms or 86 ticks behind
 [00:36:16] [Server thread/INFO]: Teleported yefry to -447.500000, 90.000000, -959.500000
+[00:36:41] [Server thread/INFO]: Teleported yefry to -447.500000, 180.000000, -959.500000
+[00:36:41] [Server thread/WARN]: yefry moved too quickly! 0.0,90.0,0.0
+[00:37:20] [Server thread/INFO]: yefry has made the advancement [Voluntary Exile]
+[00:38:05] [Server thread/INFO]: ShonA lost connection: Disconnected
+[00:38:05] [Server thread/INFO]: ShonA left the game
+[00:38:17] [Server thread/INFO]: Teleported yefry to FabianTc
+[00:40:25] [Server thread/INFO]: FabianTc has completed the challenge [Hero of the Village]
+[00:40:25] [Server thread/INFO]: yefry has completed the challenge [Hero of the Village]
+[00:41:17] [Server thread/INFO]: Teleported yefry to 11788.500000, 0.000000, 33.500000
+[00:41:20] [Server thread/WARN]: FabianTc moved too quickly! -0.3955901623317004,10.103495183170693,0.04041839538876957
+[00:41:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3023ms or 60 ticks behind
+[00:41:54] [Server thread/INFO]: Incorrect argument for command
+[00:41:54] [Server thread/INFO]: tp Yefry 11788  50.0 -16252<--[HERE]
+[00:42:37] [Server thread/INFO]: Teleported yefry to 11701.500000, 65.000000, -16332.500000
+[00:45:42] [Server thread/INFO]: Jd_tnx[/172.23.112.251:55229] logged in with entity id 292708 at (-912.3970564396711, 52.0, -4398.249538530343)
+[00:45:42] [Server thread/INFO]: Jd_tnx joined the game
+[00:47:06] [Server thread/INFO]: Teleported yefry to -799.500000, 0.000000, 80.500000
+[00:47:07] [Server thread/WARN]: FabianTc moved too quickly! -3.7442760680892206,1.0013359791121417,9.296898249346668
+[00:47:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3604ms or 72 ticks behind
+[00:47:30] [Server thread/INFO]: Teleported yefry to -799.500000, 0.000000, 800.500000
+[00:47:32] [Server thread/WARN]: FabianTc moved too quickly! -9.861525049814531,1.0244240882136921,-2.5950623602448104
+[00:48:06] [Server thread/INFO]: Teleported yefry to -799.500000, 0.000000, 80.000000
+[00:48:44] [Server thread/INFO]: Teleported yefry to -799.500000, 80.000000, -4199.500000
+[00:48:45] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:48:45] [Server thread/INFO]: <--[HERE]
+[00:54:44] [Server thread/INFO]: Jd_tnx lost connection: Disconnected
+[00:54:44] [Server thread/INFO]: Jd_tnx left the game
